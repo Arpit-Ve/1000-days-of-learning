@@ -19,3 +19,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-04 — rate limiting & throttling
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Monitor progress
+
+---
