@@ -9,3 +9,8 @@ Curated developer productivity tips and reflections.
 > Optimistic UI updates improve perceived performance by 40% in user studies.
 
 ---
+
+### 2026-06-04
+> Continuous integration catches 85% of integration bugs before they reach staging.
+
+---
