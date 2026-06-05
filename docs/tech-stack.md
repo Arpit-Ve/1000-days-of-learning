@@ -52,3 +52,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-05 — caching strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Good performance
+
+⚠️ Cons:
+- Steep learning curve
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
