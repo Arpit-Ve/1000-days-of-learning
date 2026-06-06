@@ -14,3 +14,8 @@ Curated developer productivity tips and reflections.
 > Continuous integration catches 85% of integration bugs before they reach staging.
 
 ---
+
+### 2026-06-06
+> Regular refactoring prevents technical debt accumulation — allocate 20% time weekly.
+
+---
