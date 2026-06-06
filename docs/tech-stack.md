@@ -68,3 +68,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-06 — system design patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Good performance
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Use cautiously
+
+---
