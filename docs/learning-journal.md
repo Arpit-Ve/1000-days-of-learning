@@ -20,3 +20,12 @@ _Logged at 10:54 AM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-06-07 — event sourcing
+_Logged at 02:42 AM_
+
+- Identified practical applications for current projects
+- Explored key concepts around event sourcing
+- Connected this topic to previous learnings
+
+---
