@@ -179,3 +179,47 @@ Tracking learning progress and project milestones.
 | Testing & QA | ███████████░░░░░░░░░ | 57% |
 
 ---
+
+## Weekly Check-in — 2026-06-07
+
+| Area | Progress | % |
+|------|----------|---|
+| Frontend Development | █████████████████░░░ | 85% |
+| Testing & QA | ███████████░░░░░░░░░ | 56% |
+| Documentation | █████████████████░░░ | 84% |
+
+---
+
+## Weekly Check-in — 2026-06-07
+
+| Area | Progress | % |
+|------|----------|---|
+| DevOps & Infrastructure | ███████████████░░░░░ | 75% |
+| Documentation | ██████████░░░░░░░░░░ | 50% |
+| Backend Engineering | █████████████░░░░░░░ | 67% |
+| Frontend Development | █████████████░░░░░░░ | 66% |
+| System Design | ████████████████░░░░ | 81% |
+
+---
+
+## Weekly Check-in — 2026-06-07
+
+| Area | Progress | % |
+|------|----------|---|
+| Testing & QA | ██████████████░░░░░░ | 72% |
+| System Design | ███████████░░░░░░░░░ | 56% |
+| Documentation | █████████████░░░░░░░ | 66% |
+| DevOps & Infrastructure | ███████████░░░░░░░░░ | 53% |
+
+---
+
+## Weekly Check-in — 2026-06-07
+
+| Area | Progress | % |
+|------|----------|---|
+| Testing & QA | ████████░░░░░░░░░░░░ | 41% |
+| System Design | ██████████░░░░░░░░░░ | 51% |
+| Documentation | ████████████████░░░░ | 79% |
+| DevOps & Infrastructure | ████████████░░░░░░░░ | 58% |
+
+---
