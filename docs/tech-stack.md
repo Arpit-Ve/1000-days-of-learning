@@ -85,3 +85,35 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-07 — browser rendering pipeline
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Heavy bundle size
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
+
+## 2026-06-07 — authentication & authorization
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Good performance
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Worth adopting
+
+---
