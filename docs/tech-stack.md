@@ -117,3 +117,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-07 — code review guidelines
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
