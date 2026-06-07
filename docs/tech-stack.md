@@ -134,3 +134,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-07 — message queues & event-driven design
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
