@@ -95,3 +95,19 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-06-08 — CLI task manager
+
+**Concept:** Build a CLI task manager with modern tooling.
+
+**Planned Features:**
+- [ ] CI/CD pipeline setup
+- [ ] Analytics dashboard
+- [ ] Search functionality
+- [ ] Responsive mobile-first design
+- [ ] User authentication & profiles
+- [ ] Performance monitoring
+
+**Priority:** High
+
+---
