@@ -24,3 +24,8 @@ Curated developer productivity tips and reflections.
 > Dependency updates should be done weekly to avoid large, risky version jumps.
 
 ---
+
+### 2026-06-08
+> Optimistic UI updates improve perceived performance by 40% in user studies.
+
+---
