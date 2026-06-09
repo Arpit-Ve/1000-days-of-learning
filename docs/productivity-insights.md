@@ -29,3 +29,8 @@ Curated developer productivity tips and reflections.
 > Optimistic UI updates improve perceived performance by 40% in user studies.
 
 ---
+
+### 2026-06-09
+> Standing meetings should never exceed 15 minutes for optimal attention retention.
+
+---
