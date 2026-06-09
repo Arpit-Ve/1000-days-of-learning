@@ -9,7 +9,7 @@
 
 This is a **background agent** that runs silently on your PC. Every day, it automatically:
 
-- Creates **5 to 10 commits** with randomized timing
+- Creates **15 to 20 commits** with randomized timing
 - Pushes real, meaningful content to your GitHub repository
 - Keeps your **contribution graph green** — 365 days a year
 
@@ -24,9 +24,9 @@ You don't open any app, click any button, or even think about it. It just works.
 ```
 🕛 12:00 AM → Agent wakes up
    ↓
-   Picks a random number between 5 and 10 (e.g., 7)
+   Picks a random number between 15 and 20 (e.g., 17)
    ↓
-   Generates 7 random times during your active hours (9 AM - 11 PM)
+   Generates 17 random times during your active hours (9 AM - 11 PM)
    Example: 9:12 AM, 10:45 AM, 1:30 PM, 3:15 PM, 5:50 PM, 7:22 PM, 9:48 PM
    ↓
    Sets timers for each commit → Goes back to sleep
@@ -101,7 +101,7 @@ All content looks like a **real developer's documentation** — not spam or empt
 
 | What's Randomized | Why |
 |-------------------|-----|
-| Commit count (5–10/day) | No fixed daily pattern |
+| Commit count (15–20/day) | No fixed daily pattern |
 | Commit times | Not at the same time every day |
 | Seconds offset | Doesn't commit at exact minutes (e.g., 9:12:34 AM) |
 | File selection | Doesn't modify the same file repeatedly |
@@ -143,8 +143,8 @@ All settings are in the `.env` file:
 | Branch | `main` | Commits go to main branch |
 | Timezone | `Asia/Kolkata` | IST timezone |
 | Active Hours | 9:00 AM - 11:00 PM | Commits only during waking hours |
-| Min Commits | 5 | At least 5 commits per day |
-| Max Commits | 10 | At most 10 commits per day |
+| Min Commits | 15 | At least 15 commits per day |
+| Max Commits | 20 | At most 20 commits per day |
 | Emergency Hour | 11:00 PM | Safety check time |
 | Retries | 5 | Retry failed commits up to 5 times |
 
@@ -184,7 +184,7 @@ Visual dashboard with contribution grid, stats, and live logs.
 - Your manual work on other repos **also counts**
 - Everything adds up together into one green chart
 
-**Result:** Every day has at least 5–10 green squares from the agent, plus whatever you do manually.
+**Result:** Every day has at least 15–20 green squares from the agent, plus whatever you do manually.
 
 ---
 
