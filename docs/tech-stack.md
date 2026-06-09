@@ -150,3 +150,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-09 — monitoring & observability
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Monitor progress
+
+---
