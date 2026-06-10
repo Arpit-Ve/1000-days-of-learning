@@ -198,3 +198,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-10 — refactoring techniques
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Easy to learn
+
+⚠️ Cons:
+- Limited ecosystem
+- Complex setup
+
+**Verdict:** Monitor progress
+
+---
