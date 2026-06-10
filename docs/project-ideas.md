@@ -125,3 +125,19 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-06-10 — bookmark manager
+
+**Concept:** Build a bookmark manager with modern tooling.
+
+**Planned Features:**
+- [ ] Database integration
+- [ ] Export & import features
+- [ ] REST API backend
+- [ ] Real-time data synchronization
+- [ ] Performance monitoring
+- [ ] Responsive mobile-first design
+
+**Priority:** Low
+
+---
