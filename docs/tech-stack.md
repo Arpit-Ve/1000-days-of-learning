@@ -214,3 +214,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-06-10 — API design best practices
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Scalable
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+- Steep learning curve
+
+**Verdict:** Recommended for side projects
+
+---
