@@ -175,3 +175,15 @@ High-level recaps of weekly development activity.
 - event sourcing
 
 ---
+
+## Week of 2026-06-11
+
+### Highlights
+- Resolved critical production bug
+- Deployed new version to production
+
+### Focus Areas Next Week
+- serverless computing
+- microservices architecture
+
+---
