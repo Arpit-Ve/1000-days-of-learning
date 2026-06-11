@@ -247,3 +247,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-06-11 — Kubernetes orchestration
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
