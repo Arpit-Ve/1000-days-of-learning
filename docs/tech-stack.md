@@ -231,3 +231,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-11 — state management patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Well-documented
+
+⚠️ Cons:
+- Heavy bundle size
+- Limited ecosystem
+
+**Verdict:** Monitor progress
+
+---
