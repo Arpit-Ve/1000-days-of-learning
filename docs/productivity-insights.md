@@ -49,3 +49,8 @@ Curated developer productivity tips and reflections.
 > Optimistic UI updates improve perceived performance by 40% in user studies.
 
 ---
+
+### 2026-06-11
+> Learning one new tool or language concept per week compounds dramatically over time.
+
+---
