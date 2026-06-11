@@ -301,3 +301,15 @@ Tracking learning progress and project milestones.
 | Backend Engineering | ██████████░░░░░░░░░░ | 48% |
 
 ---
+
+## Weekly Check-in — 2026-06-11
+
+| Area | Progress | % |
+|------|----------|---|
+| DevOps & Infrastructure | ███████░░░░░░░░░░░░░ | 34% |
+| Documentation | ███████████████░░░░░ | 75% |
+| System Design | ███████████░░░░░░░░░ | 54% |
+| Backend Engineering | █████████████░░░░░░░ | 65% |
+| Testing & QA | ███████░░░░░░░░░░░░░ | 36% |
+
+---
