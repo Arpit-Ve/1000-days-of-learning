@@ -187,3 +187,19 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-06-11 — JSON formatter tool
+
+**Concept:** Build a JSON formatter tool with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Search functionality
+- [ ] Performance monitoring
+- [ ] Notification system
+- [ ] Analytics dashboard
+- [ ] Dark mode support
+
+**Priority:** Low
+
+---
