@@ -44,3 +44,8 @@ Curated developer productivity tips and reflections.
 > Monitoring dashboards should display actionable metrics, not vanity numbers.
 
 ---
+
+### 2026-06-11
+> Optimistic UI updates improve perceived performance by 40% in user studies.
+
+---
