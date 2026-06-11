@@ -263,3 +263,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-11 — edge computing
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Heavy bundle size
+- Verbose syntax
+
+**Verdict:** Use cautiously
+
+---
