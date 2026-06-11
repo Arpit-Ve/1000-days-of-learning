@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T05:28:52.114Z",
-  "totalEntries": 64,
+  "generated": "2026-06-11T05:29:16.855Z",
+  "totalEntries": 72,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
@@ -8,7 +8,9 @@
     "API design best practices",
     "authentication & authorization",
     "CI/CD pipelines",
-    "containerization with Docker"
+    "containerization with Docker",
+    "Kubernetes orchestration",
+    "serverless computing"
   ],
   "activeDays": 10,
   "lastUpdate": "2026-06-11",
