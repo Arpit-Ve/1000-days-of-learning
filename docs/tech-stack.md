@@ -280,3 +280,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-11 — performance profiling
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Scalable
+
+⚠️ Cons:
+- Complex setup
+- Heavy bundle size
+
+**Verdict:** Use cautiously
+
+---
