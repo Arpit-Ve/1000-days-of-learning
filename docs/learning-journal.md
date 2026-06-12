@@ -93,3 +93,11 @@ _Logged at 02:31 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-12 — caching strategies
+_Logged at 06:45 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
