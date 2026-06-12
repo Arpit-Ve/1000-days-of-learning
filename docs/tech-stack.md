@@ -296,3 +296,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-12 — data serialization formats
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Monitor progress
+
+---
