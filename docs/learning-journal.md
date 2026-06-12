@@ -74,3 +74,13 @@ _Logged at 09:23 AM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-12 — blue-green deployments
+_Logged at 11:04 AM_
+
+- Identified practical applications for current projects
+- Explored key concepts around blue-green deployments
+- Noted areas that need deeper investigation
+- Connected this topic to previous learnings
+
+---
