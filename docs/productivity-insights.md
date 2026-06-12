@@ -64,3 +64,8 @@ Curated developer productivity tips and reflections.
 > Structured logging is essential for debugging distributed systems effectively.
 
 ---
+
+### 2026-06-12
+> Writing unit tests before implementation reduces bug density by up to 60%.
+
+---
