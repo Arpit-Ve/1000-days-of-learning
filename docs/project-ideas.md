@@ -261,3 +261,17 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-06-13 — time tracking tool
+
+**Concept:** Build a time tracking tool with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Real-time data synchronization
+- [ ] Analytics dashboard
+- [ ] Search functionality
+
+**Priority:** Low
+
+---
