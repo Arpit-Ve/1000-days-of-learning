@@ -158,3 +158,13 @@ _Logged at 10:52 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-06-13 — edge computing
+_Logged at 10:52 PM_
+
+- Connected this topic to previous learnings
+- Identified practical applications for current projects
+- Explored key concepts around edge computing
+- Noted areas that need deeper investigation
+
+---
