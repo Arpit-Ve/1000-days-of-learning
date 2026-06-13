@@ -133,3 +133,12 @@ _Logged at 10:52 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-13 — serverless computing
+_Logged at 10:52 PM_
+
+- Identified practical applications for current projects
+- Explored key concepts around serverless computing
+- Noted areas that need deeper investigation
+
+---
