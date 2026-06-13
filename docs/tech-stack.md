@@ -343,3 +343,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-13 — WebSocket real-time communication
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
