@@ -69,3 +69,8 @@ Curated developer productivity tips and reflections.
 > Writing unit tests before implementation reduces bug density by up to 60%.
 
 ---
+
+### 2026-06-13
+> Learning one new tool or language concept per week compounds dramatically over time.
+
+---
