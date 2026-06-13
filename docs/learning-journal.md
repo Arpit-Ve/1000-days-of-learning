@@ -125,3 +125,11 @@ _Logged at 10:52 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-13 — data serialization formats
+_Logged at 10:52 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
