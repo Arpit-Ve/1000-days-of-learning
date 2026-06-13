@@ -101,3 +101,11 @@ _Logged at 06:45 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-13 — security best practices
+_Logged at 10:51 PM_
+
+- Connected this topic to previous learnings
+- Explored key concepts around security best practices
+
+---
