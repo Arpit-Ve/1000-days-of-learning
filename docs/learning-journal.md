@@ -109,3 +109,11 @@ _Logged at 10:51 PM_
 - Explored key concepts around security best practices
 
 ---
+
+## 2026-06-13 — clean code principles
+_Logged at 10:52 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
