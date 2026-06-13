@@ -327,3 +327,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-13 — refactoring techniques
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+- Well-documented
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
