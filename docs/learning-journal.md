@@ -168,3 +168,11 @@ _Logged at 10:52 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-13 — database indexing strategies
+_Logged at 10:52 PM_
+
+- Connected this topic to previous learnings
+- Explored key concepts around database indexing strategies
+
+---
