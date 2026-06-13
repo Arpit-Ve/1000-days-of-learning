@@ -74,3 +74,8 @@ Curated developer productivity tips and reflections.
 > Learning one new tool or language concept per week compounds dramatically over time.
 
 ---
+
+### 2026-06-13
+> Documentation written during development is 3x more accurate than retrospective docs.
+
+---
