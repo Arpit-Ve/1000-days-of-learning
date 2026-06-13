@@ -150,3 +150,11 @@ _Logged at 10:52 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-06-13 — functional programming
+_Logged at 10:52 PM_
+
+- Explored key concepts around functional programming
+- Connected this topic to previous learnings
+
+---
