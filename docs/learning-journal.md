@@ -185,3 +185,13 @@ _Logged at 10:52 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-13 — TypeScript advanced types
+_Logged at 10:52 PM_
+
+- Explored key concepts around TypeScript advanced types
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
