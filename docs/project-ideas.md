@@ -275,3 +275,16 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-06-13 — fitness progress tracker
+
+**Concept:** Build a fitness progress tracker with modern tooling.
+
+**Planned Features:**
+- [ ] Database integration
+- [ ] Dark mode support
+- [ ] Export & import features
+
+**Priority:** Medium
+
+---
