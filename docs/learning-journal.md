@@ -142,3 +142,11 @@ _Logged at 10:52 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-13 — service mesh patterns
+_Logged at 10:52 PM_
+
+- Explored key concepts around service mesh patterns
+- Connected this topic to previous learnings
+
+---
