@@ -223,3 +223,12 @@ _Logged at 01:46 PM_
 - Explored key concepts around blue-green deployments
 
 ---
+
+## 2026-06-14 — A/B testing infrastructure
+_Logged at 04:54 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+
+---
