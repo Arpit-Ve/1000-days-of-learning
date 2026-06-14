@@ -213,3 +213,13 @@ _Logged at 10:52 PM_
 - Explored key concepts around blue-green deployments
 
 ---
+
+## 2026-06-14 — blue-green deployments
+_Logged at 01:46 PM_
+
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+- Explored key concepts around blue-green deployments
+
+---
