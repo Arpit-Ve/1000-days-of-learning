@@ -79,3 +79,8 @@ Curated developer productivity tips and reflections.
 > Documentation written during development is 3x more accurate than retrospective docs.
 
 ---
+
+### 2026-06-15
+> Pair programming accelerates onboarding and knowledge transfer significantly.
+
+---
