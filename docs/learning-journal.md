@@ -232,3 +232,12 @@ _Logged at 04:54 PM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-06-15 — caching strategies
+_Logged at 07:51 PM_
+
+- Explored key concepts around caching strategies
+- Connected this topic to previous learnings
+- Identified practical applications for current projects
+
+---
