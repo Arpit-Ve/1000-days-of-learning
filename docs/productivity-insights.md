@@ -84,3 +84,8 @@ Curated developer productivity tips and reflections.
 > Pair programming accelerates onboarding and knowledge transfer significantly.
 
 ---
+
+### 2026-06-15
+> The Pomodoro technique (25/5 min cycles) reduces decision fatigue over long days.
+
+---
