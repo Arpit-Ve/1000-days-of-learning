@@ -358,3 +358,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-15 — performance profiling
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Good performance
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Worth adopting
+
+---
