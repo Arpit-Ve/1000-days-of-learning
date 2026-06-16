@@ -389,3 +389,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-06-16 — GraphQL vs REST
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Easy to learn
+
+⚠️ Cons:
+- Limited ecosystem
+
+**Verdict:** Use cautiously
+
+---
