@@ -109,3 +109,8 @@ Curated developer productivity tips and reflections.
 > Standing meetings should never exceed 15 minutes for optimal attention retention.
 
 ---
+
+### 2026-06-16
+> Breaking PRs into smaller chunks leads to faster, more thorough reviews.
+
+---
