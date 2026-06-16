@@ -89,3 +89,8 @@ Curated developer productivity tips and reflections.
 > The Pomodoro technique (25/5 min cycles) reduces decision fatigue over long days.
 
 ---
+
+### 2026-06-16
+> Using linters and formatters eliminates 90% of style-related code review comments.
+
+---
