@@ -335,3 +335,18 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-06-16 — markdown editor with live preview
+
+**Concept:** Build a markdown editor with live preview with modern tooling.
+
+**Planned Features:**
+- [ ] Dark mode support
+- [ ] Search functionality
+- [ ] CI/CD pipeline setup
+- [ ] Real-time data synchronization
+- [ ] Export & import features
+
+**Priority:** Medium
+
+---
