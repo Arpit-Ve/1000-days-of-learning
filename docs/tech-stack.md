@@ -373,3 +373,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-16 — GraphQL vs REST
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Limited ecosystem
+
+**Verdict:** Monitor progress
+
+---
