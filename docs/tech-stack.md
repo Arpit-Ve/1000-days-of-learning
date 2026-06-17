@@ -436,3 +436,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-17 — testing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
