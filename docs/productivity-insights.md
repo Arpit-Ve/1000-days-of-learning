@@ -114,3 +114,8 @@ Curated developer productivity tips and reflections.
 > Breaking PRs into smaller chunks leads to faster, more thorough reviews.
 
 ---
+
+### 2026-06-17
+> Regular refactoring prevents technical debt accumulation — allocate 20% time weekly.
+
+---
