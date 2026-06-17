@@ -404,3 +404,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-17 — clean code principles
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Worth adopting
+
+---
