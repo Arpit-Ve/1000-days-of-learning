@@ -350,3 +350,17 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-06-17 — quiz generator
+
+**Concept:** Build a quiz generator with modern tooling.
+
+**Planned Features:**
+- [ ] Database integration
+- [ ] User authentication & profiles
+- [ ] CI/CD pipeline setup
+- [ ] Notification system
+
+**Priority:** Low
+
+---
