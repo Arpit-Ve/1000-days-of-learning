@@ -454,3 +454,14 @@ Tracking learning progress and project milestones.
 | Documentation | ████████████████░░░░ | 80% |
 
 ---
+
+## Weekly Check-in — 2026-06-17
+
+| Area | Progress | % |
+|------|----------|---|
+| Documentation | ███████████████████░ | 93% |
+| Testing & QA | █████░░░░░░░░░░░░░░░ | 27% |
+| System Design | ████████████████░░░░ | 78% |
+| DevOps & Infrastructure | █████████░░░░░░░░░░░ | 45% |
+
+---
