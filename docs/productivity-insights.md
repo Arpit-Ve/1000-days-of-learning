@@ -119,3 +119,8 @@ Curated developer productivity tips and reflections.
 > Regular refactoring prevents technical debt accumulation — allocate 20% time weekly.
 
 ---
+
+### 2026-06-17
+> Dependency updates should be done weekly to avoid large, risky version jumps.
+
+---
