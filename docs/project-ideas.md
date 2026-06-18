@@ -378,3 +378,18 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-06-18 — weather dashboard
+
+**Concept:** Build a weather dashboard with modern tooling.
+
+**Planned Features:**
+- [ ] Responsive mobile-first design
+- [ ] Database integration
+- [ ] REST API backend
+- [ ] Search functionality
+- [ ] Dark mode support
+
+**Priority:** Medium
+
+---
