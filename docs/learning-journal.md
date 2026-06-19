@@ -277,3 +277,13 @@ _Logged at 11:43 AM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-19 — React internals
+_Logged at 03:41 PM_
+
+- Noted areas that need deeper investigation
+- Connected this topic to previous learnings
+- Identified practical applications for current projects
+- Explored key concepts around React internals
+
+---
