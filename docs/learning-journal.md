@@ -287,3 +287,11 @@ _Logged at 03:41 PM_
 - Explored key concepts around React internals
 
 ---
+
+## 2026-06-20 — code review guidelines
+_Logged at 02:05 AM_
+
+- Connected this topic to previous learnings
+- Explored key concepts around code review guidelines
+
+---
