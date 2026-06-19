@@ -487,3 +487,15 @@ Tracking learning progress and project milestones.
 | Frontend Development | ████████████████░░░░ | 81% |
 
 ---
+
+## Weekly Check-in — 2026-06-19
+
+| Area | Progress | % |
+|------|----------|---|
+| Documentation | ████████████░░░░░░░░ | 59% |
+| DevOps & Infrastructure | ███████░░░░░░░░░░░░░ | 36% |
+| Testing & QA | ██████████████░░░░░░ | 69% |
+| Backend Engineering | ███████░░░░░░░░░░░░░ | 36% |
+| System Design | ████████░░░░░░░░░░░░ | 40% |
+
+---
