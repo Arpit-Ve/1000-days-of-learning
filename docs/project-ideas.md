@@ -393,3 +393,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-06-19 — browser extension for productivity
+
+**Concept:** Build a browser extension for productivity with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Real-time data synchronization
+- [ ] Performance monitoring
+
+**Priority:** High
+
+---
