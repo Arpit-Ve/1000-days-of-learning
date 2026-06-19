@@ -134,3 +134,8 @@ Curated developer productivity tips and reflections.
 > Pair programming accelerates onboarding and knowledge transfer significantly.
 
 ---
+
+### 2026-06-19
+> Database migrations should always be reversible for safe deployments.
+
+---
