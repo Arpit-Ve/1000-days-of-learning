@@ -469,3 +469,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-19 — state management patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Well-documented
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
