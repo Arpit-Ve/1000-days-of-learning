@@ -434,3 +434,18 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-06-20 — habit tracking app
+
+**Concept:** Build a habit tracking app with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Real-time data synchronization
+- [ ] Search functionality
+- [ ] Dark mode support
+- [ ] Export & import features
+
+**Priority:** High
+
+---
