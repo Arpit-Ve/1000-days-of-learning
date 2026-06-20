@@ -484,3 +484,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-20 — microservices architecture
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Limited ecosystem
+- Steep learning curve
+
+**Verdict:** Recommended for side projects
+
+---
