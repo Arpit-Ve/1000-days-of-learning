@@ -295,3 +295,12 @@ _Logged at 02:05 AM_
 - Explored key concepts around code review guidelines
 
 ---
+
+## 2026-06-20 — CI/CD pipelines
+_Logged at 09:30 AM_
+
+- Connected this topic to previous learnings
+- Explored key concepts around CI/CD pipelines
+- Identified practical applications for current projects
+
+---
