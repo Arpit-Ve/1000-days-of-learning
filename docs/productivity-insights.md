@@ -149,3 +149,8 @@ Curated developer productivity tips and reflections.
 > Feature branches should be merged within 2 days to avoid merge conflicts.
 
 ---
+
+### 2026-06-20
+> Structured logging is essential for debugging distributed systems effectively.
+
+---
