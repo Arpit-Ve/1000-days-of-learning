@@ -312,3 +312,12 @@ _Logged at 10:48 AM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-06-21 — A/B testing infrastructure
+_Logged at 12:57 PM_
+
+- Explored key concepts around A/B testing infrastructure
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+
+---
