@@ -500,3 +500,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-21 — API design best practices
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Recommended for side projects
+
+---
