@@ -154,3 +154,8 @@ Curated developer productivity tips and reflections.
 > Structured logging is essential for debugging distributed systems effectively.
 
 ---
+
+### 2026-06-21
+> Context switching costs approximately 23 minutes of recovery time per interruption.
+
+---
