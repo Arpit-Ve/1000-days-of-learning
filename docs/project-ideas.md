@@ -491,3 +491,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-06-22 — portfolio site generator
+
+**Concept:** Build a portfolio site generator with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Real-time data synchronization
+- [ ] Performance monitoring
+
+**Priority:** Medium
+
+---
