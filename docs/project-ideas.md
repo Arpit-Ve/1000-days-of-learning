@@ -504,3 +504,17 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-06-22 — quiz generator
+
+**Concept:** Build a quiz generator with modern tooling.
+
+**Planned Features:**
+- [ ] Real-time data synchronization
+- [ ] Export & import features
+- [ ] Dark mode support
+- [ ] Performance monitoring
+
+**Priority:** High
+
+---
