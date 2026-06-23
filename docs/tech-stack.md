@@ -583,3 +583,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-24 — rate limiting & throttling
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Heavy bundle size
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
