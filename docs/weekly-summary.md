@@ -434,3 +434,15 @@ High-level recaps of weekly development activity.
 - database indexing strategies
 
 ---
+
+## Week of 2026-06-23
+
+### Highlights
+- Improved test coverage by 15%
+- Implemented new CI/CD pipeline stage
+
+### Focus Areas Next Week
+- OAuth 2.0 flows
+- authentication & authorization
+
+---
