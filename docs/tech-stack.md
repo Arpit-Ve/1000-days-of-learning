@@ -566,3 +566,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-23 — security best practices
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
