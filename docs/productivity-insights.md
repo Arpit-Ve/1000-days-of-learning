@@ -184,3 +184,8 @@ Curated developer productivity tips and reflections.
 > Keeping functions under 20 lines improves readability and testability.
 
 ---
+
+### 2026-06-24
+> API versioning from day one saves months of backward-compatibility headaches.
+
+---
