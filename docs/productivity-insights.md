@@ -179,3 +179,8 @@ Curated developer productivity tips and reflections.
 > Structured logging is essential for debugging distributed systems effectively.
 
 ---
+
+### 2026-06-23
+> Keeping functions under 20 lines improves readability and testability.
+
+---
