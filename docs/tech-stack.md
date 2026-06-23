@@ -549,3 +549,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-06-23 — concurrency patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Scalable
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Recommended for side projects
+
+---
