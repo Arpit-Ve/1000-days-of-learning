@@ -174,3 +174,8 @@ Curated developer productivity tips and reflections.
 > Dependency updates should be done weekly to avoid large, risky version jumps.
 
 ---
+
+### 2026-06-23
+> Structured logging is essential for debugging distributed systems effectively.
+
+---
