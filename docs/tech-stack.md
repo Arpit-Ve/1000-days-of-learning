@@ -599,3 +599,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-24 — memory management
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
