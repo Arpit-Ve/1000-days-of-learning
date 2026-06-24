@@ -199,3 +199,8 @@ Curated developer productivity tips and reflections.
 > Structured logging is essential for debugging distributed systems effectively.
 
 ---
+
+### 2026-06-24
+> Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
+
+---
