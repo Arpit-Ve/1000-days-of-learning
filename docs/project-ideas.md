@@ -564,3 +564,19 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-06-25 — CLI task manager
+
+**Concept:** Build a CLI task manager with modern tooling.
+
+**Planned Features:**
+- [ ] Notification system
+- [ ] REST API backend
+- [ ] Database integration
+- [ ] Search functionality
+- [ ] Dark mode support
+- [ ] Export & import features
+
+**Priority:** High
+
+---
