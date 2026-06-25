@@ -842,3 +842,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-06-25 — progressive web apps
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Well-documented
+
+⚠️ Cons:
+- Complex setup
+- Limited ecosystem
+
+**Verdict:** Recommended for side projects
+
+---
