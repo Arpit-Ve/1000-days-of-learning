@@ -826,3 +826,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-25 — CQRS pattern
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+- Well-documented
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Monitor progress
+
+---
