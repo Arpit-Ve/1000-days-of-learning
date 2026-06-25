@@ -214,3 +214,8 @@ Curated developer productivity tips and reflections.
 > Monitoring dashboards should display actionable metrics, not vanity numbers.
 
 ---
+
+### 2026-06-25
+> Pair programming accelerates onboarding and knowledge transfer significantly.
+
+---
