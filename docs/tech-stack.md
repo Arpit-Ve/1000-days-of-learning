@@ -648,3 +648,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-25 — web accessibility standards
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+- Active community
+
+⚠️ Cons:
+- Complex setup
+- Steep learning curve
+
+**Verdict:** Worth adopting
+
+---
