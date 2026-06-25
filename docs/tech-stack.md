@@ -745,3 +745,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-25 — authentication & authorization
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Recommended for side projects
+
+---
