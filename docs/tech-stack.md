@@ -713,3 +713,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-25 — infrastructure as code
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Use cautiously
+
+---
