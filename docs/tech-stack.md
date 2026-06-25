@@ -681,3 +681,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-25 — API design best practices
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Good performance
+- Easy to learn
+
+⚠️ Cons:
+- Limited ecosystem
+- Verbose syntax
+
+**Verdict:** Monitor progress
+
+---
