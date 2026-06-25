@@ -615,3 +615,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-25 — authentication & authorization
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Easy to learn
+- Scalable
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
