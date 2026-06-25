@@ -858,3 +858,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-25 — data visualization techniques
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
