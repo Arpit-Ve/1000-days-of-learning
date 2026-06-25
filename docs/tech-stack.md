@@ -665,3 +665,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-25 — event sourcing
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Well-documented
+
+⚠️ Cons:
+- Complex setup
+- Limited ecosystem
+
+**Verdict:** Use cautiously
+
+---
