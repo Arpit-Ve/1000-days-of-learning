@@ -698,3 +698,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-06-25 — testing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Good performance
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Recommended for side projects
+
+---
