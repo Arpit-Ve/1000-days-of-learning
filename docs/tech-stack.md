@@ -907,3 +907,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-26 — GraphQL vs REST
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Worth adopting
+
+---
