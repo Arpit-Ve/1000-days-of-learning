@@ -891,3 +891,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-06-25 — microservices architecture
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Well-documented
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Use cautiously
+
+---
