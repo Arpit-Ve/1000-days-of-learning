@@ -809,3 +809,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-25 — A/B testing infrastructure
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Limited ecosystem
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
