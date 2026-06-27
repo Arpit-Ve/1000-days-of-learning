@@ -394,3 +394,13 @@ _Logged at 04:22 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-27 — GraphQL vs REST
+_Logged at 08:29 PM_
+
+- Explored key concepts around GraphQL vs REST
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
