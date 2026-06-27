@@ -624,3 +624,19 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-06-27 — bookmark manager
+
+**Concept:** Build a bookmark manager with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Dark mode support
+- [ ] Analytics dashboard
+- [ ] Export & import features
+- [ ] Real-time data synchronization
+- [ ] Search functionality
+
+**Priority:** High
+
+---
