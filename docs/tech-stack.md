@@ -955,3 +955,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-06-27 — web accessibility standards
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Scalable
+- Easy to learn
+
+⚠️ Cons:
+- Limited ecosystem
+
+**Verdict:** Use cautiously
+
+---
