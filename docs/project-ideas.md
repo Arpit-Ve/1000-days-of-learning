@@ -611,3 +611,16 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-06-27 — portfolio site generator
+
+**Concept:** Build a portfolio site generator with modern tooling.
+
+**Planned Features:**
+- [ ] Notification system
+- [ ] Responsive mobile-first design
+- [ ] REST API backend
+
+**Priority:** Low
+
+---
