@@ -404,3 +404,12 @@ _Logged at 08:29 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-06-27 — blue-green deployments
+_Logged at 08:30 PM_
+
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+
+---
