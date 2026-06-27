@@ -422,3 +422,13 @@ _Logged at 08:30 PM_
 - Explored key concepts around domain-driven design
 
 ---
+
+## 2026-06-27 — infrastructure as code
+_Logged at 08:30 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+- Explored key concepts around infrastructure as code
+
+---
