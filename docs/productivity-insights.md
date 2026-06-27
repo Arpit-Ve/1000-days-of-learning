@@ -234,3 +234,8 @@ Curated developer productivity tips and reflections.
 > Dependency updates should be done weekly to avoid large, risky version jumps.
 
 ---
+
+### 2026-06-27
+> The Pomodoro technique (25/5 min cycles) reduces decision fatigue over long days.
+
+---
