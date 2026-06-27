@@ -413,3 +413,12 @@ _Logged at 08:30 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-06-27 — domain-driven design
+_Logged at 08:30 PM_
+
+- Identified practical applications for current projects
+- Noted areas that need deeper investigation
+- Explored key concepts around domain-driven design
+
+---
