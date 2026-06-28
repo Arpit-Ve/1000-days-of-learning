@@ -239,3 +239,8 @@ Curated developer productivity tips and reflections.
 > The Pomodoro technique (25/5 min cycles) reduces decision fatigue over long days.
 
 ---
+
+### 2026-06-28
+> Code reviews done within 24 hours have 40% fewer follow-up iterations.
+
+---
