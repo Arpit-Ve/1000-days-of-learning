@@ -971,3 +971,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-28 — state management patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Well-documented
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+- Limited ecosystem
+
+**Verdict:** Use cautiously
+
+---
