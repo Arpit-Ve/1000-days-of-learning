@@ -432,3 +432,22 @@ _Logged at 08:30 PM_
 - Explored key concepts around infrastructure as code
 
 ---
+
+## 2026-06-28 — distributed tracing
+_Logged at 07:55 AM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+
+---
+
+## 2026-06-28 — data visualization techniques
+_Logged at 01:14 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+- Explored key concepts around data visualization techniques
+
+---
