@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T15:00:26.372Z",
-  "totalEntries": 369,
+  "generated": "2026-06-28T09:51:44.312Z",
+  "totalEntries": 381,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
@@ -11,9 +11,10 @@
     "containerization with Docker",
     "Kubernetes orchestration",
     "serverless computing",
-    "GraphQL vs REST"
+    "GraphQL vs REST",
+    "WebSocket real-time communication"
   ],
-  "activeDays": 26,
-  "lastUpdate": "2026-06-27",
-  "streak": 25
+  "activeDays": 27,
+  "lastUpdate": "2026-06-28",
+  "streak": 26
 }
