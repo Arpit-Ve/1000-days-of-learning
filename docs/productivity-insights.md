@@ -254,3 +254,8 @@ Curated developer productivity tips and reflections.
 > Optimistic UI updates improve perceived performance by 40% in user studies.
 
 ---
+
+### 2026-06-29
+> Feature branches should be merged within 2 days to avoid merge conflicts.
+
+---
