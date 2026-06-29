@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T05:30:41.919Z",
+  "generated": "2026-06-29T05:31:43.621Z",
   "totalEntries": 382,
   "topicsExplored": [
     "system design patterns",
@@ -8,15 +8,7 @@
     "API design best practices",
     "authentication & authorization",
     "CI/CD pipelines",
-    "containerization with Docker",
-    "Kubernetes orchestration",
-    "serverless computing",
-    "GraphQL vs REST",
-    "WebSocket real-time communication",
-    "caching strategies",
-    "message queues & event-driven design",
-    "monitoring & observability",
-    "load balancing techniques"
+    "containerization with Docker"
   ],
   "activeDays": 28,
   "lastUpdate": "2026-06-29",
