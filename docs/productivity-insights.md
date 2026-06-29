@@ -249,3 +249,8 @@ Curated developer productivity tips and reflections.
 > Context switching costs approximately 23 minutes of recovery time per interruption.
 
 ---
+
+### 2026-06-29
+> Optimistic UI updates improve perceived performance by 40% in user studies.
+
+---
