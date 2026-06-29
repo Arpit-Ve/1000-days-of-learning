@@ -1038,3 +1038,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-29 — microservices architecture
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Limited ecosystem
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
