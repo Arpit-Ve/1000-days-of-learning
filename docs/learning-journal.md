@@ -468,3 +468,11 @@ _Logged at 12:40 PM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-06-29 — GraphQL vs REST
+_Logged at 04:10 PM_
+
+- Explored key concepts around GraphQL vs REST
+- Identified practical applications for current projects
+
+---
