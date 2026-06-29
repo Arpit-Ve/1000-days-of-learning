@@ -451,3 +451,12 @@ _Logged at 01:14 PM_
 - Explored key concepts around data visualization techniques
 
 ---
+
+## 2026-06-29 — A/B testing infrastructure
+_Logged at 11:01 AM_
+
+- Explored key concepts around A/B testing infrastructure
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+
+---
