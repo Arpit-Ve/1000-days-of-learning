@@ -640,3 +640,33 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-06-28 — real-time collaboration tool
+
+**Concept:** Build a real-time collaboration tool with modern tooling.
+
+**Planned Features:**
+- [ ] CI/CD pipeline setup
+- [ ] Real-time data synchronization
+- [ ] Search functionality
+- [ ] Responsive mobile-first design
+- [ ] Notification system
+- [ ] Performance monitoring
+
+**Priority:** High
+
+---
+
+## 2026-06-29 — personal finance tracker
+
+**Concept:** Build a personal finance tracker with modern tooling.
+
+**Planned Features:**
+- [ ] CI/CD pipeline setup
+- [ ] User authentication & profiles
+- [ ] Notification system
+- [ ] REST API backend
+
+**Priority:** Low
+
+---
