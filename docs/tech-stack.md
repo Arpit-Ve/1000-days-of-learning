@@ -1021,3 +1021,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-29 — database indexing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Good performance
+- Scalable
+
+⚠️ Cons:
+- Verbose syntax
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
