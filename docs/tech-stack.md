@@ -988,3 +988,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-29 — TypeScript advanced types
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Complex setup
+- Heavy bundle size
+
+**Verdict:** Monitor progress
+
+---
