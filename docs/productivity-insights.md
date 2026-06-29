@@ -259,3 +259,8 @@ Curated developer productivity tips and reflections.
 > Feature branches should be merged within 2 days to avoid merge conflicts.
 
 ---
+
+### 2026-06-29
+> Feature branches should be merged within 2 days to avoid merge conflicts.
+
+---
