@@ -1054,3 +1054,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-06-30 — A/B testing infrastructure
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Limited ecosystem
+- Verbose syntax
+
+**Verdict:** Use cautiously
+
+---
