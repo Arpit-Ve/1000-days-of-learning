@@ -264,3 +264,8 @@ Curated developer productivity tips and reflections.
 > Feature branches should be merged within 2 days to avoid merge conflicts.
 
 ---
+
+### 2026-06-30
+> The Pomodoro technique (25/5 min cycles) reduces decision fatigue over long days.
+
+---
