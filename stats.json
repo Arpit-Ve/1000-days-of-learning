@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-30T11:17:25.376Z",
-  "totalEntries": 414,
+  "generated": "2026-06-30T11:17:28.004Z",
+  "totalEntries": 415,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
@@ -12,8 +12,7 @@
     "Kubernetes orchestration",
     "serverless computing",
     "GraphQL vs REST",
-    "WebSocket real-time communication",
-    "caching strategies"
+    "WebSocket real-time communication"
   ],
   "activeDays": 29,
   "lastUpdate": "2026-06-30",
