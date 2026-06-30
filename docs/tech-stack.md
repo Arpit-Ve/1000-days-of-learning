@@ -1071,3 +1071,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-06-30 — browser rendering pipeline
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Heavy bundle size
+- Complex setup
+
+**Verdict:** Recommended for side projects
+
+---
