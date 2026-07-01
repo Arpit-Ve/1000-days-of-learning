@@ -484,3 +484,12 @@ _Logged at 11:18 AM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-07-01 — containerization with Docker
+_Logged at 11:10 PM_
+
+- Connected this topic to previous learnings
+- Identified practical applications for current projects
+- Explored key concepts around containerization with Docker
+
+---
