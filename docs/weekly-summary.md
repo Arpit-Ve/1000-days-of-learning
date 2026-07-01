@@ -604,3 +604,15 @@ High-level recaps of weekly development activity.
 - message queues & event-driven design
 
 ---
+
+## Week of 2026-07-01
+
+### Highlights
+- Updated project dependencies
+- Deployed new version to production
+
+### Focus Areas Next Week
+- Node.js event loop
+- data visualization techniques
+
+---
