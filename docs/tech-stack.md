@@ -1087,3 +1087,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-07-01 — domain-driven design
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Monitor progress
+
+---
