@@ -1135,3 +1135,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-07-02 — system design patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Good performance
+- Easy to learn
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Monitor progress
+
+---
