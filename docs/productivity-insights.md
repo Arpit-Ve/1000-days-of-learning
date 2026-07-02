@@ -289,3 +289,8 @@ Curated developer productivity tips and reflections.
 > Using meaningful variable names eliminates the need for most inline comments.
 
 ---
+
+### 2026-07-03
+> Optimistic UI updates improve perceived performance by 40% in user studies.
+
+---
