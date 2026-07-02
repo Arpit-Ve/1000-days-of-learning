@@ -740,3 +740,16 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-07-02 — kanban board
+
+**Concept:** Build a kanban board with modern tooling.
+
+**Planned Features:**
+- [ ] Search functionality
+- [ ] Notification system
+- [ ] Responsive mobile-first design
+
+**Priority:** Medium
+
+---
