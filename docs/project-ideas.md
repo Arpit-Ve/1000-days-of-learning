@@ -782,3 +782,18 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-07-02 — password strength analyzer
+
+**Concept:** Build a password strength analyzer with modern tooling.
+
+**Planned Features:**
+- [ ] Export & import features
+- [ ] CI/CD pipeline setup
+- [ ] Performance monitoring
+- [ ] REST API backend
+- [ ] Notification system
+
+**Priority:** High
+
+---
