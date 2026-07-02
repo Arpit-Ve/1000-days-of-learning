@@ -279,3 +279,8 @@ Curated developer productivity tips and reflections.
 > Using linters and formatters eliminates 90% of style-related code review comments.
 
 ---
+
+### 2026-07-02
+> Using meaningful variable names eliminates the need for most inline comments.
+
+---
