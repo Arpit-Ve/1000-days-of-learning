@@ -1168,3 +1168,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-03 — containerization with Docker
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Well-documented
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Use cautiously
+
+---
