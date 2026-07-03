@@ -1,13 +1,12 @@
 {
-  "generated": "2026-07-03T09:58:29.235Z",
-  "totalEntries": 456,
+  "generated": "2026-07-03T13:04:57.516Z",
+  "totalEntries": 458,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
     "database optimization",
     "API design best practices",
-    "authentication & authorization",
-    "CI/CD pipelines"
+    "authentication & authorization"
   ],
   "activeDays": 32,
   "lastUpdate": "2026-07-03",
