@@ -1152,3 +1152,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-03 — data serialization formats
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Complex setup
+- Steep learning curve
+
+**Verdict:** Monitor progress
+
+---
