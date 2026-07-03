@@ -811,3 +811,19 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-07-03 — personal finance tracker
+
+**Concept:** Build a personal finance tracker with modern tooling.
+
+**Planned Features:**
+- [ ] Dark mode support
+- [ ] Notification system
+- [ ] Analytics dashboard
+- [ ] Database integration
+- [ ] User authentication & profiles
+- [ ] CI/CD pipeline setup
+
+**Priority:** Low
+
+---
