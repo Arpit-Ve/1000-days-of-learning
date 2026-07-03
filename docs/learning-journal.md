@@ -503,3 +503,12 @@ _Logged at 01:35 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-07-03 — CI/CD pipelines
+_Logged at 03:16 PM_
+
+- Explored key concepts around CI/CD pipelines
+- Identified practical applications for current projects
+- Noted areas that need deeper investigation
+
+---
