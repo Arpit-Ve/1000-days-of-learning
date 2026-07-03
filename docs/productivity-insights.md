@@ -294,3 +294,8 @@ Curated developer productivity tips and reflections.
 > Optimistic UI updates improve perceived performance by 40% in user studies.
 
 ---
+
+### 2026-07-03
+> Keeping functions under 20 lines improves readability and testability.
+
+---
