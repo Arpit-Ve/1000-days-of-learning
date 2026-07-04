@@ -1199,3 +1199,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-04 — database optimization
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Monitor progress
+
+---
