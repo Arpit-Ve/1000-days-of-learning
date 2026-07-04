@@ -304,3 +304,8 @@ Curated developer productivity tips and reflections.
 > Continuous integration catches 85% of integration bugs before they reach staging.
 
 ---
+
+### 2026-07-04
+> Standing meetings should never exceed 15 minutes for optimal attention retention.
+
+---
