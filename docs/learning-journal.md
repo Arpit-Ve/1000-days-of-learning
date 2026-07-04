@@ -549,3 +549,11 @@ _Logged at 07:49 AM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-07-04 — feature flags & toggles
+_Logged at 11:57 AM_
+
+- Explored key concepts around feature flags & toggles
+- Identified practical applications for current projects
+
+---
