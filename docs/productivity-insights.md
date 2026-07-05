@@ -314,3 +314,8 @@ Curated developer productivity tips and reflections.
 > Feature branches should be merged within 2 days to avoid merge conflicts.
 
 ---
+
+### 2026-07-05
+> Learning one new tool or language concept per week compounds dramatically over time.
+
+---
