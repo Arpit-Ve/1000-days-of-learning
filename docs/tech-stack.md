@@ -1214,3 +1214,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-05 — event sourcing
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
