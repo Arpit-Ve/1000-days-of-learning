@@ -309,3 +309,8 @@ Curated developer productivity tips and reflections.
 > Standing meetings should never exceed 15 minutes for optimal attention retention.
 
 ---
+
+### 2026-07-05
+> Feature branches should be merged within 2 days to avoid merge conflicts.
+
+---
