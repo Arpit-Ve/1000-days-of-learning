@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T03:49:35.533Z",
-  "totalEntries": 489,
+  "generated": "2026-07-05T03:49:40.184Z",
+  "totalEntries": 491,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
@@ -9,11 +9,7 @@
     "authentication & authorization",
     "CI/CD pipelines",
     "containerization with Docker",
-    "Kubernetes orchestration",
-    "serverless computing",
-    "GraphQL vs REST",
-    "WebSocket real-time communication",
-    "caching strategies"
+    "Kubernetes orchestration"
   ],
   "activeDays": 34,
   "lastUpdate": "2026-07-05",
