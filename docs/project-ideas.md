@@ -887,3 +887,18 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-07-06 — personal finance tracker
+
+**Concept:** Build a personal finance tracker with modern tooling.
+
+**Planned Features:**
+- [ ] Real-time data synchronization
+- [ ] Export & import features
+- [ ] Search functionality
+- [ ] Responsive mobile-first design
+- [ ] Analytics dashboard
+
+**Priority:** Low
+
+---
