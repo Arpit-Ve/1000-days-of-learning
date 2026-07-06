@@ -319,3 +319,8 @@ Curated developer productivity tips and reflections.
 > Learning one new tool or language concept per week compounds dramatically over time.
 
 ---
+
+### 2026-07-06
+> Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
+
+---
