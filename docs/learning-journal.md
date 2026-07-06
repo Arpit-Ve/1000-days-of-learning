@@ -576,3 +576,11 @@ _Logged at 01:42 PM_
 - Explored key concepts around browser rendering pipeline
 
 ---
+
+## 2026-07-06 — code review guidelines
+_Logged at 01:42 PM_
+
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+
+---
