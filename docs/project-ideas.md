@@ -902,3 +902,16 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-07-06 — real-time collaboration tool
+
+**Concept:** Build a real-time collaboration tool with modern tooling.
+
+**Planned Features:**
+- [ ] Performance monitoring
+- [ ] User authentication & profiles
+- [ ] CI/CD pipeline setup
+
+**Priority:** Medium
+
+---
