@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T14:07:42.972Z",
+  "generated": "2026-07-07T14:08:15.476Z",
   "totalEntries": 523,
   "topicsExplored": [
     "system design patterns",
@@ -11,11 +11,7 @@
     "containerization with Docker",
     "Kubernetes orchestration",
     "serverless computing",
-    "GraphQL vs REST",
-    "WebSocket real-time communication",
-    "caching strategies",
-    "message queues & event-driven design",
-    "monitoring & observability"
+    "GraphQL vs REST"
   ],
   "activeDays": 36,
   "lastUpdate": "2026-07-07",
