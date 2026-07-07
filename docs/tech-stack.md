@@ -1247,3 +1247,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-07 — database indexing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Complex setup
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
