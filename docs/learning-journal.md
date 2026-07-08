@@ -604,3 +604,11 @@ _Logged at 12:37 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-07-08 — distributed tracing
+_Logged at 12:37 PM_
+
+- Explored key concepts around distributed tracing
+- Noted areas that need deeper investigation
+
+---
