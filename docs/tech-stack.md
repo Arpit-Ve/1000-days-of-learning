@@ -1280,3 +1280,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-08 — monitoring & observability
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Worth adopting
+
+---
