@@ -971,3 +971,18 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-07-09 — kanban board
+
+**Concept:** Build a kanban board with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Real-time data synchronization
+- [ ] Database integration
+- [ ] Dark mode support
+- [ ] Notification system
+
+**Priority:** Low
+
+---
