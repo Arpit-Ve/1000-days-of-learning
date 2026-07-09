@@ -620,3 +620,12 @@ _Logged at 05:25 PM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-07-09 — monitoring & observability
+_Logged at 11:56 AM_
+
+- Identified practical applications for current projects
+- Explored key concepts around monitoring & observability
+- Noted areas that need deeper investigation
+
+---
