@@ -1310,3 +1310,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-10 — service mesh patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Scalable
+- Active community
+
+⚠️ Cons:
+- Complex setup
+- Limited ecosystem
+
+**Verdict:** Recommended for side projects
+
+---
