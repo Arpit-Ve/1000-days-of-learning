@@ -1016,3 +1016,19 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-07-10 — JSON formatter tool
+
+**Concept:** Build a JSON formatter tool with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Responsive mobile-first design
+- [ ] Real-time data synchronization
+- [ ] Export & import features
+- [ ] Database integration
+- [ ] Dark mode support
+
+**Priority:** High
+
+---
