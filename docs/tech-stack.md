@@ -1327,3 +1327,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-07-10 — code review guidelines
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+- Verbose syntax
+
+**Verdict:** Monitor progress
+
+---
