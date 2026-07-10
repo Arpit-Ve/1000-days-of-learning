@@ -649,3 +649,12 @@ _Logged at 09:13 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-07-10 — Kubernetes orchestration
+_Logged at 09:43 PM_
+
+- Noted areas that need deeper investigation
+- Connected this topic to previous learnings
+- Explored key concepts around Kubernetes orchestration
+
+---
