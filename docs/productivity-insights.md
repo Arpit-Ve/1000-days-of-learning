@@ -349,3 +349,8 @@ Curated developer productivity tips and reflections.
 > Monitoring dashboards should display actionable metrics, not vanity numbers.
 
 ---
+
+### 2026-07-10
+> Load testing before launch prevents embarrassing production outages.
+
+---
