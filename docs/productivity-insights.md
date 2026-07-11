@@ -354,3 +354,8 @@ Curated developer productivity tips and reflections.
 > Load testing before launch prevents embarrassing production outages.
 
 ---
+
+### 2026-07-11
+> Optimistic UI updates improve perceived performance by 40% in user studies.
+
+---
