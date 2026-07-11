@@ -666,3 +666,11 @@ _Logged at 07:27 AM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-07-11 — rate limiting & throttling
+_Logged at 02:12 PM_
+
+- Connected this topic to previous learnings
+- Identified practical applications for current projects
+
+---
