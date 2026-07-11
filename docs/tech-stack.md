@@ -1344,3 +1344,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-11 — CQRS pattern
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
