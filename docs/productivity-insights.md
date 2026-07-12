@@ -359,3 +359,8 @@ Curated developer productivity tips and reflections.
 > Optimistic UI updates improve perceived performance by 40% in user studies.
 
 ---
+
+### 2026-07-12
+> Regular refactoring prevents technical debt accumulation — allocate 20% time weekly.
+
+---
