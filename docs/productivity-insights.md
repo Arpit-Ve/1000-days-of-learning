@@ -364,3 +364,8 @@ Curated developer productivity tips and reflections.
 > Regular refactoring prevents technical debt accumulation — allocate 20% time weekly.
 
 ---
+
+### 2026-07-12
+> Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
+
+---
