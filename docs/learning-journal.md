@@ -684,3 +684,11 @@ _Logged at 12:37 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-07-16 — V8 engine optimization
+_Logged at 02:30 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
