@@ -1391,3 +1391,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-07-16 — state management patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
