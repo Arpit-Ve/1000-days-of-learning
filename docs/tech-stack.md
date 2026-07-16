@@ -1421,3 +1421,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-07-16 — CI/CD pipelines
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Recommended for side projects
+
+---
