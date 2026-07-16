@@ -374,3 +374,8 @@ Curated developer productivity tips and reflections.
 > Continuous integration catches 85% of integration bugs before they reach staging.
 
 ---
+
+### 2026-07-16
+> Context switching costs approximately 23 minutes of recovery time per interruption.
+
+---
