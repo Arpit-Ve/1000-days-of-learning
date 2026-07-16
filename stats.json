@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T09:00:44.583Z",
-  "totalEntries": 7,
+  "generated": "2026-07-16T09:00:49.865Z",
+  "totalEntries": 9,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
@@ -14,8 +14,7 @@
     "GraphQL vs REST",
     "WebSocket real-time communication",
     "caching strategies",
-    "message queues & event-driven design",
-    "monitoring & observability"
+    "message queues & event-driven design"
   ],
   "activeDays": 2,
   "lastUpdate": "2026-07-16",
