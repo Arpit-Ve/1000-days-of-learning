@@ -379,3 +379,8 @@ Curated developer productivity tips and reflections.
 > Context switching costs approximately 23 minutes of recovery time per interruption.
 
 ---
+
+### 2026-07-17
+> Code reviews done within 24 hours have 40% fewer follow-up iterations.
+
+---
