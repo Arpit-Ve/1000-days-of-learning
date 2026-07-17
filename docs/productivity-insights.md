@@ -384,3 +384,8 @@ Curated developer productivity tips and reflections.
 > Code reviews done within 24 hours have 40% fewer follow-up iterations.
 
 ---
+
+### 2026-07-17
+> Error handling should be designed first, not bolted on as an afterthought.
+
+---
