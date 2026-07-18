@@ -389,3 +389,8 @@ Curated developer productivity tips and reflections.
 > Error handling should be designed first, not bolted on as an afterthought.
 
 ---
+
+### 2026-07-18
+> Monitoring dashboards should display actionable metrics, not vanity numbers.
+
+---
