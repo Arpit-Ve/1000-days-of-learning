@@ -709,3 +709,12 @@ _Logged at 12:26 PM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-07-18 — serverless computing
+_Logged at 12:26 PM_
+
+- Explored key concepts around serverless computing
+- Connected this topic to previous learnings
+- Identified practical applications for current projects
+
+---
