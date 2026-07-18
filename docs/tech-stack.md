@@ -1467,3 +1467,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-07-18 — load balancing techniques
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Good performance
+- Well-documented
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
