@@ -394,3 +394,8 @@ Curated developer productivity tips and reflections.
 > Monitoring dashboards should display actionable metrics, not vanity numbers.
 
 ---
+
+### 2026-07-21
+> Breaking PRs into smaller chunks leads to faster, more thorough reviews.
+
+---
