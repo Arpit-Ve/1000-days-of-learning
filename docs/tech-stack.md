@@ -1484,3 +1484,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-07-21 — rate limiting & throttling
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Monitor progress
+
+---
