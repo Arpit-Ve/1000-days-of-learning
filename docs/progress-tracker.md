@@ -1239,3 +1239,14 @@ Tracking learning progress and project milestones.
 | Backend Engineering | ███████████████░░░░░ | 75% |
 
 ---
+
+## Weekly Check-in — 2026-07-21
+
+| Area | Progress | % |
+|------|----------|---|
+| Frontend Development | ████████████████░░░░ | 82% |
+| Backend Engineering | ████████████████░░░░ | 80% |
+| DevOps & Infrastructure | ████████████░░░░░░░░ | 62% |
+| System Design | ██████████████░░░░░░ | 69% |
+
+---
