@@ -399,3 +399,8 @@ Curated developer productivity tips and reflections.
 > Breaking PRs into smaller chunks leads to faster, more thorough reviews.
 
 ---
+
+### 2026-07-27
+> Documentation written during development is 3x more accurate than retrospective docs.
+
+---
