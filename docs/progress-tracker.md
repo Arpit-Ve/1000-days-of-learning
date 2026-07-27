@@ -1746,3 +1746,14 @@ Tracking learning progress and project milestones.
 | DevOps & Infrastructure | ████████████░░░░░░░░ | 61% |
 
 ---
+
+## Weekly Check-in — 2026-07-27
+
+| Area | Progress | % |
+|------|----------|---|
+| DevOps & Infrastructure | ██████░░░░░░░░░░░░░░ | 29% |
+| System Design | ███████████████░░░░░ | 77% |
+| Documentation | ████████████████░░░░ | 82% |
+| Backend Engineering | ████████████░░░░░░░░ | 62% |
+
+---
