@@ -404,3 +404,8 @@ Curated developer productivity tips and reflections.
 > Documentation written during development is 3x more accurate than retrospective docs.
 
 ---
+
+### 2026-07-27
+> Standing meetings should never exceed 15 minutes for optimal attention retention.
+
+---
