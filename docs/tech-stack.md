@@ -1499,3 +1499,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-27 — testing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
