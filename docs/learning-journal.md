@@ -736,3 +736,11 @@ _Logged at 05:23 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-07-27 — concurrency patterns
+_Logged at 05:40 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
