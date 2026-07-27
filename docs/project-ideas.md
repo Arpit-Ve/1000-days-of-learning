@@ -1149,3 +1149,16 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-07-27 — portfolio site generator
+
+**Concept:** Build a portfolio site generator with modern tooling.
+
+**Planned Features:**
+- [ ] CI/CD pipeline setup
+- [ ] Real-time data synchronization
+- [ ] Search functionality
+
+**Priority:** High
+
+---
