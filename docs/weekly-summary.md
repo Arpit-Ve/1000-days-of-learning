@@ -871,3 +871,15 @@ High-level recaps of weekly development activity.
 - CQRS pattern
 
 ---
+
+## Week of 2026-07-27
+
+### Highlights
+- Deployed new version to production
+- Updated project dependencies
+
+### Focus Areas Next Week
+- containerization with Docker
+- rate limiting & throttling
+
+---
