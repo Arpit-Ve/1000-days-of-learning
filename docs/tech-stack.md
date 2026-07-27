@@ -1516,3 +1516,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-07-27 — functional programming
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Monitor progress
+
+---
