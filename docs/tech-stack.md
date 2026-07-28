@@ -1546,3 +1546,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-07-28 — database indexing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
