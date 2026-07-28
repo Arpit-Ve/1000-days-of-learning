@@ -1562,3 +1562,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-07-28 — A/B testing infrastructure
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Well-documented
+- Scalable
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Monitor progress
+
+---
