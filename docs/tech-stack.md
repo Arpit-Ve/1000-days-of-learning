@@ -1531,3 +1531,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-07-28 — domain-driven design
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
