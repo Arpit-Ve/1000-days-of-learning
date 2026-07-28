@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T12:23:41.508Z",
-  "totalEntries": 141,
+  "generated": "2026-07-28T15:04:50.763Z",
+  "totalEntries": 143,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
@@ -10,11 +10,7 @@
     "CI/CD pipelines",
     "containerization with Docker",
     "Kubernetes orchestration",
-    "serverless computing",
-    "GraphQL vs REST",
-    "WebSocket real-time communication",
-    "caching strategies",
-    "message queues & event-driven design"
+    "serverless computing"
   ],
   "activeDays": 10,
   "lastUpdate": "2026-07-28",
