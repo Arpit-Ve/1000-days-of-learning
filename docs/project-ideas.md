@@ -1176,3 +1176,16 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-07-28 — color palette generator
+
+**Concept:** Build a color palette generator with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Analytics dashboard
+- [ ] REST API backend
+
+**Priority:** Low
+
+---
