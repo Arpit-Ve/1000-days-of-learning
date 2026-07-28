@@ -409,3 +409,8 @@ Curated developer productivity tips and reflections.
 > Standing meetings should never exceed 15 minutes for optimal attention retention.
 
 ---
+
+### 2026-07-28
+> Using linters and formatters eliminates 90% of style-related code review comments.
+
+---
