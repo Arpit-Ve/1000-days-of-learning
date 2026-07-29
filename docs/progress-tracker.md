@@ -1922,3 +1922,15 @@ Tracking learning progress and project milestones.
 | Documentation | ██████████████████░░ | 89% |
 
 ---
+
+## Weekly Check-in — 2026-07-29
+
+| Area | Progress | % |
+|------|----------|---|
+| DevOps & Infrastructure | █████████████░░░░░░░ | 64% |
+| Backend Engineering | ██████████████████░░ | 88% |
+| Documentation | ████████████████░░░░ | 82% |
+| Testing & QA | █████████░░░░░░░░░░░ | 46% |
+| Frontend Development | █████████░░░░░░░░░░░ | 46% |
+
+---
