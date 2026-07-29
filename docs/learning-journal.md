@@ -763,3 +763,12 @@ _Logged at 04:36 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-07-29 — serverless computing
+_Logged at 11:36 AM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+
+---
