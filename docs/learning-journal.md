@@ -772,3 +772,11 @@ _Logged at 11:36 AM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-07-29 — blue-green deployments
+_Logged at 02:08 PM_
+
+- Explored key concepts around blue-green deployments
+- Connected this topic to previous learnings
+
+---
