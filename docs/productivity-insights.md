@@ -414,3 +414,8 @@ Curated developer productivity tips and reflections.
 > Using linters and formatters eliminates 90% of style-related code review comments.
 
 ---
+
+### 2026-07-29
+> Monitoring dashboards should display actionable metrics, not vanity numbers.
+
+---
