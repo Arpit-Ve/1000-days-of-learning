@@ -1628,3 +1628,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-07-30 — CDN optimization
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Recommended for side projects
+
+---
