@@ -424,3 +424,8 @@ Curated developer productivity tips and reflections.
 > Documentation written during development is 3x more accurate than retrospective docs.
 
 ---
+
+### 2026-07-30
+> API versioning from day one saves months of backward-compatibility headaches.
+
+---
