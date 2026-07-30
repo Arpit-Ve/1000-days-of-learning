@@ -1596,3 +1596,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-07-30 — web accessibility standards
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Scalable
+- Good performance
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Use cautiously
+
+---
