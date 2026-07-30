@@ -780,3 +780,12 @@ _Logged at 02:08 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-07-30 — API design best practices
+_Logged at 01:52 PM_
+
+- Noted areas that need deeper investigation
+- Explored key concepts around API design best practices
+- Connected this topic to previous learnings
+
+---
