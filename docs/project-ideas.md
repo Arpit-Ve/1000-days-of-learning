@@ -1218,3 +1218,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-07-31 — RSS feed aggregator
+
+**Concept:** Build a RSS feed aggregator with modern tooling.
+
+**Planned Features:**
+- [ ] Analytics dashboard
+- [ ] Responsive mobile-first design
+- [ ] Database integration
+
+**Priority:** Low
+
+---
