@@ -1660,3 +1660,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-07-31 — rate limiting & throttling
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Scalable
+- Active community
+
+⚠️ Cons:
+- Complex setup
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
