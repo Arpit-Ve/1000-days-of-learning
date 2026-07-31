@@ -789,3 +789,11 @@ _Logged at 01:52 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-07-31 — design patterns in JavaScript
+_Logged at 11:35 AM_
+
+- Explored key concepts around design patterns in JavaScript
+- Noted areas that need deeper investigation
+
+---
