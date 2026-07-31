@@ -1643,3 +1643,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-07-31 — GraphQL vs REST
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Good performance
+- Easy to learn
+
+⚠️ Cons:
+- Verbose syntax
+- Heavy bundle size
+
+**Verdict:** Worth adopting
+
+---
