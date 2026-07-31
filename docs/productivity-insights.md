@@ -429,3 +429,8 @@ Curated developer productivity tips and reflections.
 > API versioning from day one saves months of backward-compatibility headaches.
 
 ---
+
+### 2026-07-31
+> Standing meetings should never exceed 15 minutes for optimal attention retention.
+
+---
