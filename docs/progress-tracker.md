@@ -2071,3 +2071,13 @@ Tracking learning progress and project milestones.
 | Testing & QA | ████████░░░░░░░░░░░░ | 38% |
 
 ---
+
+## Weekly Check-in — 2026-07-31
+
+| Area | Progress | % |
+|------|----------|---|
+| System Design | █████████░░░░░░░░░░░ | 44% |
+| Frontend Development | █████████░░░░░░░░░░░ | 44% |
+| Documentation | █████████████░░░░░░░ | 66% |
+
+---
