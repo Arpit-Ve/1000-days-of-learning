@@ -1231,3 +1231,17 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-08-02 — real-time collaboration tool
+
+**Concept:** Build a real-time collaboration tool with modern tooling.
+
+**Planned Features:**
+- [ ] Real-time data synchronization
+- [ ] REST API backend
+- [ ] Search functionality
+- [ ] Export & import features
+
+**Priority:** High
+
+---
