@@ -1725,3 +1725,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-03 — OAuth 2.0 flows
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Monitor progress
+
+---
