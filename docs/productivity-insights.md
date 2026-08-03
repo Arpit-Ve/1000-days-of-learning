@@ -444,3 +444,8 @@ Curated developer productivity tips and reflections.
 > Context switching costs approximately 23 minutes of recovery time per interruption.
 
 ---
+
+### 2026-08-03
+> Standing meetings should never exceed 15 minutes for optimal attention retention.
+
+---
