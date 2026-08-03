@@ -1693,3 +1693,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-03 — distributed tracing
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
