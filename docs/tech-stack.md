@@ -1740,3 +1740,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-05 — web accessibility standards
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Easy to learn
+
+⚠️ Cons:
+- Heavy bundle size
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
