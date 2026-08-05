@@ -1756,3 +1756,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-05 — CQRS pattern
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Active community
+- Well-documented
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
