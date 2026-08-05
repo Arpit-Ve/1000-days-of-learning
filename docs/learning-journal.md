@@ -834,3 +834,13 @@ _Logged at 10:06 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-08-05 — Node.js event loop
+_Logged at 10:37 PM_
+
+- Connected this topic to previous learnings
+- Identified practical applications for current projects
+- Noted areas that need deeper investigation
+- Explored key concepts around Node.js event loop
+
+---
