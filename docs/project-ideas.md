@@ -1360,3 +1360,18 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-08-06 — portfolio site generator
+
+**Concept:** Build a portfolio site generator with modern tooling.
+
+**Planned Features:**
+- [ ] Export & import features
+- [ ] Dark mode support
+- [ ] Real-time data synchronization
+- [ ] Responsive mobile-first design
+- [ ] Database integration
+
+**Priority:** Medium
+
+---
