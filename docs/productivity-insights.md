@@ -469,3 +469,8 @@ Curated developer productivity tips and reflections.
 > Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
 
 ---
+
+### 2026-08-06
+> Context switching costs approximately 23 minutes of recovery time per interruption.
+
+---
