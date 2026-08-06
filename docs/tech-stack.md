@@ -1788,3 +1788,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-06 — progressive web apps
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Monitor progress
+
+---
