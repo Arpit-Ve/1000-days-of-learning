@@ -1773,3 +1773,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-06 — V8 engine optimization
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Easy to learn
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Recommended for side projects
+
+---
