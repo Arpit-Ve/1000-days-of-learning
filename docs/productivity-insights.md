@@ -464,3 +464,8 @@ Curated developer productivity tips and reflections.
 > Automating repetitive tasks saves an average of 5 hours per week for developers.
 
 ---
+
+### 2026-08-06
+> Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
+
+---
