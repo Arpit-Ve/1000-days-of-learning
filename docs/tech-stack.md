@@ -1803,3 +1803,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-06 — Node.js event loop
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Well-documented
+- Easy to learn
+
+⚠️ Cons:
+- Limited ecosystem
+- Verbose syntax
+
+**Verdict:** Use cautiously
+
+---
