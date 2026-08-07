@@ -474,3 +474,8 @@ Curated developer productivity tips and reflections.
 > Context switching costs approximately 23 minutes of recovery time per interruption.
 
 ---
+
+### 2026-08-07
+> Breaking PRs into smaller chunks leads to faster, more thorough reviews.
+
+---
