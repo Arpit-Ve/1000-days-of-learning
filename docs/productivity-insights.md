@@ -479,3 +479,8 @@ Curated developer productivity tips and reflections.
 > Breaking PRs into smaller chunks leads to faster, more thorough reviews.
 
 ---
+
+### 2026-08-07
+> Keeping functions under 20 lines improves readability and testability.
+
+---
