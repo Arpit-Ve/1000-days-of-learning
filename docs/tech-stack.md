@@ -1852,3 +1852,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-07 — code review guidelines
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
