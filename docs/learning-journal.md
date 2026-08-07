@@ -871,3 +871,11 @@ _Logged at 01:36 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-08-07 — serverless computing
+_Logged at 01:54 PM_
+
+- Explored key concepts around serverless computing
+- Identified practical applications for current projects
+
+---
