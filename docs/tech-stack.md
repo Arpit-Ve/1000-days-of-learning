@@ -1836,3 +1836,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-07 — feature flags & toggles
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
