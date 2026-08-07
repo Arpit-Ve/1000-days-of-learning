@@ -1375,3 +1375,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-07 — bookmark manager
+
+**Concept:** Build a bookmark manager with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Export & import features
+- [ ] CI/CD pipeline setup
+
+**Priority:** Medium
+
+---
