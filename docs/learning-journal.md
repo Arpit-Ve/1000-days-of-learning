@@ -915,3 +915,12 @@ _Logged at 08:32 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-08-07 — event sourcing
+_Logged at 08:32 PM_
+
+- Connected this topic to previous learnings
+- Explored key concepts around event sourcing
+- Identified practical applications for current projects
+
+---
