@@ -1450,3 +1450,18 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-08-08 — recipe organizer
+
+**Concept:** Build a recipe organizer with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] CI/CD pipeline setup
+- [ ] Notification system
+- [ ] Performance monitoring
+- [ ] Analytics dashboard
+
+**Priority:** Low
+
+---
