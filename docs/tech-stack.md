@@ -1867,3 +1867,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-08 — API design best practices
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+- Active community
+
+⚠️ Cons:
+- Limited ecosystem
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
