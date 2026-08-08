@@ -1495,3 +1495,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-08 — kanban board
+
+**Concept:** Build a kanban board with modern tooling.
+
+**Planned Features:**
+- [ ] Search functionality
+- [ ] Database integration
+- [ ] REST API backend
+
+**Priority:** High
+
+---
