@@ -484,3 +484,8 @@ Curated developer productivity tips and reflections.
 > Keeping functions under 20 lines improves readability and testability.
 
 ---
+
+### 2026-08-08
+> Writing unit tests before implementation reduces bug density by up to 60%.
+
+---
