@@ -1508,3 +1508,16 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-08-08 — recipe organizer
+
+**Concept:** Build a recipe organizer with modern tooling.
+
+**Planned Features:**
+- [ ] Performance monitoring
+- [ ] Notification system
+- [ ] User authentication & profiles
+
+**Priority:** High
+
+---
