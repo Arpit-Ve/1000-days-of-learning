@@ -1884,3 +1884,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-08 — Node.js event loop
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Limited ecosystem
+
+**Verdict:** Monitor progress
+
+---
