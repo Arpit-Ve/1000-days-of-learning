@@ -494,3 +494,8 @@ Curated developer productivity tips and reflections.
 > Feature branches should be merged within 2 days to avoid merge conflicts.
 
 ---
+
+### 2026-08-09
+> Regular refactoring prevents technical debt accumulation — allocate 20% time weekly.
+
+---
