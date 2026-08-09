@@ -1899,3 +1899,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-09 — testing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Well-documented
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Worth adopting
+
+---
