@@ -489,3 +489,8 @@ Curated developer productivity tips and reflections.
 > Writing unit tests before implementation reduces bug density by up to 60%.
 
 ---
+
+### 2026-08-09
+> Feature branches should be merged within 2 days to avoid merge conflicts.
+
+---
