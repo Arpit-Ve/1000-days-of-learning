@@ -1521,3 +1521,18 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-08-09 — code snippet manager
+
+**Concept:** Build a code snippet manager with modern tooling.
+
+**Planned Features:**
+- [ ] Search functionality
+- [ ] Real-time data synchronization
+- [ ] Dark mode support
+- [ ] Responsive mobile-first design
+- [ ] REST API backend
+
+**Priority:** High
+
+---
