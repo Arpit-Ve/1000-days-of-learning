@@ -1550,3 +1550,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-10 — weather dashboard
+
+**Concept:** Build a weather dashboard with modern tooling.
+
+**Planned Features:**
+- [ ] Database integration
+- [ ] Dark mode support
+- [ ] Notification system
+
+**Priority:** Medium
+
+---
