@@ -1080,3 +1080,13 @@ _Logged at 09:42 AM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-08-10 — rate limiting & throttling
+_Logged at 02:37 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+- Explored key concepts around rate limiting & throttling
+
+---
