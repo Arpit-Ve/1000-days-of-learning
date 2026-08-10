@@ -1914,3 +1914,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-10 — serverless computing
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Monitor progress
+
+---
