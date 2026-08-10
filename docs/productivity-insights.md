@@ -499,3 +499,8 @@ Curated developer productivity tips and reflections.
 > Regular refactoring prevents technical debt accumulation — allocate 20% time weekly.
 
 ---
+
+### 2026-08-10
+> Context switching costs approximately 23 minutes of recovery time per interruption.
+
+---
