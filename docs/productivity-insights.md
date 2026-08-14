@@ -514,3 +514,8 @@ Curated developer productivity tips and reflections.
 > Error handling should be designed first, not bolted on as an afterthought.
 
 ---
+
+### 2026-08-14
+> Documentation written during development is 3x more accurate than retrospective docs.
+
+---
