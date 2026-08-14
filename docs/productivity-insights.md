@@ -509,3 +509,8 @@ Curated developer productivity tips and reflections.
 > Continuous integration catches 85% of integration bugs before they reach staging.
 
 ---
+
+### 2026-08-14
+> Error handling should be designed first, not bolted on as an afterthought.
+
+---
