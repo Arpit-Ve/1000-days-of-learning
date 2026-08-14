@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T09:37:38.426Z",
-  "totalEntries": 352,
+  "generated": "2026-08-14T09:37:45.140Z",
+  "totalEntries": 354,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
@@ -9,7 +9,9 @@
     "authentication & authorization",
     "CI/CD pipelines",
     "containerization with Docker",
-    "Kubernetes orchestration"
+    "Kubernetes orchestration",
+    "serverless computing",
+    "GraphQL vs REST"
   ],
   "activeDays": 25,
   "lastUpdate": "2026-08-14",
