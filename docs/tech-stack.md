@@ -1946,3 +1946,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-14 — message queues & event-driven design
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Scalable
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Monitor progress
+
+---
