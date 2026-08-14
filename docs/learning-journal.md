@@ -1090,3 +1090,13 @@ _Logged at 02:37 PM_
 - Explored key concepts around rate limiting & throttling
 
 ---
+
+## 2026-08-14 — performance profiling
+_Logged at 03:07 PM_
+
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Explored key concepts around performance profiling
+
+---
