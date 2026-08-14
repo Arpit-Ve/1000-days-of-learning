@@ -1650,3 +1650,18 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-08-14 — personal finance tracker
+
+**Concept:** Build a personal finance tracker with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Notification system
+- [ ] Search functionality
+- [ ] CI/CD pipeline setup
+- [ ] REST API backend
+
+**Priority:** Low
+
+---
