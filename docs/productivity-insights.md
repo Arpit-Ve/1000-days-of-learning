@@ -519,3 +519,8 @@ Curated developer productivity tips and reflections.
 > Documentation written during development is 3x more accurate than retrospective docs.
 
 ---
+
+### 2026-08-15
+> Structured logging is essential for debugging distributed systems effectively.
+
+---
