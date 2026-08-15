@@ -1693,3 +1693,16 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-08-15 — time tracking tool
+
+**Concept:** Build a time tracking tool with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Responsive mobile-first design
+- [ ] Analytics dashboard
+
+**Priority:** High
+
+---
