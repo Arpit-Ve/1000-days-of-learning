@@ -1978,3 +1978,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-16 — browser rendering pipeline
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Well-documented
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Recommended for side projects
+
+---
