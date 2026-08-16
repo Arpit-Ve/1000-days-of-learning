@@ -529,3 +529,8 @@ Curated developer productivity tips and reflections.
 > Continuous integration catches 85% of integration bugs before they reach staging.
 
 ---
+
+### 2026-08-16
+> Feature branches should be merged within 2 days to avoid merge conflicts.
+
+---
