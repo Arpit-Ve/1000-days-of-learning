@@ -2009,3 +2009,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-17 — web accessibility standards
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
