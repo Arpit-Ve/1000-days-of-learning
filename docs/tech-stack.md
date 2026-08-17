@@ -1993,3 +1993,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-17 — web accessibility standards
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Well-documented
+
+⚠️ Cons:
+- Limited ecosystem
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
