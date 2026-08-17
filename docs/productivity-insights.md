@@ -539,3 +539,8 @@ Curated developer productivity tips and reflections.
 > Code reviews done within 24 hours have 40% fewer follow-up iterations.
 
 ---
+
+### 2026-08-17
+> Feature branches should be merged within 2 days to avoid merge conflicts.
+
+---
