@@ -554,3 +554,8 @@ Curated developer productivity tips and reflections.
 > Using linters and formatters eliminates 90% of style-related code review comments.
 
 ---
+
+### 2026-08-18
+> Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
+
+---
