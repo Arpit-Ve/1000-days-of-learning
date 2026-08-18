@@ -2040,3 +2040,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-18 — database optimization
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Well-documented
+- Scalable
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Worth adopting
+
+---
