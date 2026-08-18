@@ -1722,3 +1722,19 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-18 — code snippet manager
+
+**Concept:** Build a code snippet manager with modern tooling.
+
+**Planned Features:**
+- [ ] Analytics dashboard
+- [ ] Export & import features
+- [ ] Responsive mobile-first design
+- [ ] Performance monitoring
+- [ ] Dark mode support
+- [ ] Database integration
+
+**Priority:** Low
+
+---
