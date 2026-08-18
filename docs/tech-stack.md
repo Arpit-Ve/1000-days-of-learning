@@ -2025,3 +2025,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-18 — microservices architecture
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Recommended for side projects
+
+---
