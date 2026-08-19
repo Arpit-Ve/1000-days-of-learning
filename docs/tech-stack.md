@@ -2088,3 +2088,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-19 — security best practices
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
