@@ -2199,3 +2199,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-19 — data visualization techniques
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
