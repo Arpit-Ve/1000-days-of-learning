@@ -2183,3 +2183,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-19 — containerization with Docker
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Well-documented
+
+⚠️ Cons:
+- Heavy bundle size
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
