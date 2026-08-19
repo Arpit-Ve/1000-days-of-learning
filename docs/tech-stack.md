@@ -2248,3 +2248,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-20 — testing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Limited ecosystem
+- Steep learning curve
+
+**Verdict:** Worth adopting
+
+---
