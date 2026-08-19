@@ -2136,3 +2136,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-19 — system design patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Good performance
+- Scalable
+
+⚠️ Cons:
+- Complex setup
+- Limited ecosystem
+
+**Verdict:** Recommended for side projects
+
+---
