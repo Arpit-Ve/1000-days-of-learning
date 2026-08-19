@@ -2072,3 +2072,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-19 — TypeScript advanced types
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+- Steep learning curve
+
+**Verdict:** Recommended for side projects
+
+---
