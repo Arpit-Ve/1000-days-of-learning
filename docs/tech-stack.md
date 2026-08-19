@@ -2103,3 +2103,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-19 — monitoring & observability
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Complex setup
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
