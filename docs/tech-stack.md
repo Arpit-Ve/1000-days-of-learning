@@ -2119,3 +2119,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-19 — authentication & authorization
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Well-documented
+- Scalable
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Monitor progress
+
+---
