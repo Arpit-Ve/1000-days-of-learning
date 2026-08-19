@@ -2232,3 +2232,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-19 — React internals
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Good performance
+
+⚠️ Cons:
+- Complex setup
+- Verbose syntax
+
+**Verdict:** Use cautiously
+
+---
