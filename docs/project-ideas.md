@@ -1785,3 +1785,18 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-08-20 — code snippet manager
+
+**Concept:** Build a code snippet manager with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Responsive mobile-first design
+- [ ] Performance monitoring
+- [ ] CI/CD pipeline setup
+- [ ] Analytics dashboard
+
+**Priority:** High
+
+---
