@@ -2265,3 +2265,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-20 — CI/CD pipelines
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Limited ecosystem
+
+**Verdict:** Monitor progress
+
+---
