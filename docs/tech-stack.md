@@ -2281,3 +2281,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-20 — functional programming
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+- Verbose syntax
+
+**Verdict:** Monitor progress
+
+---
