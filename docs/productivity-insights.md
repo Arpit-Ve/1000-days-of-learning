@@ -564,3 +564,8 @@ Curated developer productivity tips and reflections.
 > Structured logging is essential for debugging distributed systems effectively.
 
 ---
+
+### 2026-08-20
+> Monitoring dashboards should display actionable metrics, not vanity numbers.
+
+---
