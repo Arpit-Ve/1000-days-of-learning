@@ -574,3 +574,8 @@ Curated developer productivity tips and reflections.
 > Using meaningful variable names eliminates the need for most inline comments.
 
 ---
+
+### 2026-08-21
+> Context switching costs approximately 23 minutes of recovery time per interruption.
+
+---
