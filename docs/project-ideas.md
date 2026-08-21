@@ -1815,3 +1815,19 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-21 — quiz generator
+
+**Concept:** Build a quiz generator with modern tooling.
+
+**Planned Features:**
+- [ ] Dark mode support
+- [ ] Database integration
+- [ ] Export & import features
+- [ ] REST API backend
+- [ ] Search functionality
+- [ ] CI/CD pipeline setup
+
+**Priority:** Medium
+
+---
