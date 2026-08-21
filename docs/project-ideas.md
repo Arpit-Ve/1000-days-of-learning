@@ -1800,3 +1800,18 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-08-21 — real-time collaboration tool
+
+**Concept:** Build a real-time collaboration tool with modern tooling.
+
+**Planned Features:**
+- [ ] Real-time data synchronization
+- [ ] Search functionality
+- [ ] User authentication & profiles
+- [ ] Export & import features
+- [ ] CI/CD pipeline setup
+
+**Priority:** Medium
+
+---
