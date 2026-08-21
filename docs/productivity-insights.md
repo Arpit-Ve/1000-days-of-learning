@@ -569,3 +569,8 @@ Curated developer productivity tips and reflections.
 > Monitoring dashboards should display actionable metrics, not vanity numbers.
 
 ---
+
+### 2026-08-21
+> Using meaningful variable names eliminates the need for most inline comments.
+
+---
