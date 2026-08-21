@@ -584,3 +584,8 @@ Curated developer productivity tips and reflections.
 > Writing unit tests before implementation reduces bug density by up to 60%.
 
 ---
+
+### 2026-08-21
+> Context switching costs approximately 23 minutes of recovery time per interruption.
+
+---
