@@ -2313,3 +2313,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-22 — feature flags & toggles
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Heavy bundle size
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
