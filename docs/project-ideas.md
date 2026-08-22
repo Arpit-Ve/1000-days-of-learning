@@ -1831,3 +1831,17 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-22 — kanban board
+
+**Concept:** Build a kanban board with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Search functionality
+- [ ] Export & import features
+- [ ] Real-time data synchronization
+
+**Priority:** High
+
+---
