@@ -609,3 +609,8 @@ Curated developer productivity tips and reflections.
 > Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
 
 ---
+
+### 2026-08-23
+> Database migrations should always be reversible for safe deployments.
+
+---
