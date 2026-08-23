@@ -594,3 +594,8 @@ Curated developer productivity tips and reflections.
 > Dependency updates should be done weekly to avoid large, risky version jumps.
 
 ---
+
+### 2026-08-23
+> Keeping functions under 20 lines improves readability and testability.
+
+---
