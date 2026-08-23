@@ -2364,3 +2364,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-23 — edge computing
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Easy to learn
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Recommended for side projects
+
+---
