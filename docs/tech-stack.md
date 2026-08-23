@@ -2379,3 +2379,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-23 — design patterns in JavaScript
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Good performance
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Use cautiously
+
+---
