@@ -2347,3 +2347,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-23 — edge computing
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Verbose syntax
+- Heavy bundle size
+
+**Verdict:** Worth adopting
+
+---
