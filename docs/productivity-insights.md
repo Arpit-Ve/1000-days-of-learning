@@ -604,3 +604,8 @@ Curated developer productivity tips and reflections.
 > Code reviews done within 24 hours have 40% fewer follow-up iterations.
 
 ---
+
+### 2026-08-23
+> Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
+
+---
