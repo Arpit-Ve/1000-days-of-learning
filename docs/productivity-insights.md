@@ -599,3 +599,8 @@ Curated developer productivity tips and reflections.
 > Keeping functions under 20 lines improves readability and testability.
 
 ---
+
+### 2026-08-23
+> Code reviews done within 24 hours have 40% fewer follow-up iterations.
+
+---
