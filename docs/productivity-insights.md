@@ -619,3 +619,8 @@ Curated developer productivity tips and reflections.
 > Documentation written during development is 3x more accurate than retrospective docs.
 
 ---
+
+### 2026-08-24
+> Database migrations should always be reversible for safe deployments.
+
+---
