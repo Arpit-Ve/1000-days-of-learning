@@ -624,3 +624,8 @@ Curated developer productivity tips and reflections.
 > Database migrations should always be reversible for safe deployments.
 
 ---
+
+### 2026-08-24
+> Standing meetings should never exceed 15 minutes for optimal attention retention.
+
+---
