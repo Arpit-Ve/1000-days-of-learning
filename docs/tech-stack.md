@@ -2508,3 +2508,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-26 — Kubernetes orchestration
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
