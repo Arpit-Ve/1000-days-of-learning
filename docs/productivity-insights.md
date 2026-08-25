@@ -634,3 +634,8 @@ Curated developer productivity tips and reflections.
 > Feature branches should be merged within 2 days to avoid merge conflicts.
 
 ---
+
+### 2026-08-25
+> Database migrations should always be reversible for safe deployments.
+
+---
