@@ -2412,3 +2412,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-25 — WebSocket real-time communication
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Use cautiously
+
+---
