@@ -2475,3 +2475,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-25 — state management patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Scalable
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Monitor progress
+
+---
