@@ -1903,3 +1903,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-25 — time tracking tool
+
+**Concept:** Build a time tracking tool with modern tooling.
+
+**Planned Features:**
+- [ ] Notification system
+- [ ] Database integration
+- [ ] Dark mode support
+
+**Priority:** Medium
+
+---
