@@ -2443,3 +2443,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-25 — testing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Good performance
+- Active community
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
