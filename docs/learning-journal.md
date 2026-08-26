@@ -1299,3 +1299,11 @@ _Logged at 12:15 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-08-26 — database indexing strategies
+_Logged at 12:15 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
