@@ -1283,3 +1283,11 @@ _Logged at 12:15 PM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-08-26 — serverless computing
+_Logged at 12:15 PM_
+
+- Explored key concepts around serverless computing
+- Identified practical applications for current projects
+
+---
