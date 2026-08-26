@@ -2523,3 +2523,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-26 — edge computing
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+- Well-documented
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Worth adopting
+
+---
