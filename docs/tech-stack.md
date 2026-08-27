@@ -2539,3 +2539,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-27 — data serialization formats
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Worth adopting
+
+---
