@@ -2572,3 +2572,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-27 — containerization with Docker
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Monitor progress
+
+---
