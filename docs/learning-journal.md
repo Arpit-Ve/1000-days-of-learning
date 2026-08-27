@@ -1317,3 +1317,12 @@ _Logged at 11:47 AM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-08-27 — functional programming
+_Logged at 11:47 AM_
+
+- Explored key concepts around functional programming
+- Connected this topic to previous learnings
+- Identified practical applications for current projects
+
+---
