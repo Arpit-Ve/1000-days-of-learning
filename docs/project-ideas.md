@@ -1930,3 +1930,17 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-27 — CLI task manager
+
+**Concept:** Build a CLI task manager with modern tooling.
+
+**Planned Features:**
+- [ ] Export & import features
+- [ ] CI/CD pipeline setup
+- [ ] Real-time data synchronization
+- [ ] User authentication & profiles
+
+**Priority:** High
+
+---
