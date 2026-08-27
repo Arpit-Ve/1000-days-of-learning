@@ -1307,3 +1307,13 @@ _Logged at 12:15 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-08-27 — testing strategies
+_Logged at 11:47 AM_
+
+- Explored key concepts around testing strategies
+- Identified practical applications for current projects
+- Noted areas that need deeper investigation
+- Connected this topic to previous learnings
+
+---
