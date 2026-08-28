@@ -1336,3 +1336,12 @@ _Logged at 12:12 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-08-28 — WebSocket real-time communication
+_Logged at 12:12 PM_
+
+- Explored key concepts around WebSocket real-time communication
+- Identified practical applications for current projects
+- Noted areas that need deeper investigation
+
+---
