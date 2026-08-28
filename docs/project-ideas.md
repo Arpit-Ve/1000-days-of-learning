@@ -1991,3 +1991,17 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-08-28 — JSON formatter tool
+
+**Concept:** Build a JSON formatter tool with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Export & import features
+- [ ] Responsive mobile-first design
+- [ ] Real-time data synchronization
+
+**Priority:** Medium
+
+---
