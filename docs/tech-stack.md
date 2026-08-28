@@ -2588,3 +2588,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-28 — system design patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Steep learning curve
+- Verbose syntax
+
+**Verdict:** Use cautiously
+
+---
