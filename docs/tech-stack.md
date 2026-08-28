@@ -2605,3 +2605,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-28 — V8 engine optimization
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Easy to learn
+- Scalable
+
+⚠️ Cons:
+- Heavy bundle size
+- Steep learning curve
+
+**Verdict:** Recommended for side projects
+
+---
