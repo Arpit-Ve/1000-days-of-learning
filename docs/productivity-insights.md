@@ -649,3 +649,8 @@ Curated developer productivity tips and reflections.
 > Standing meetings should never exceed 15 minutes for optimal attention retention.
 
 ---
+
+### 2026-08-28
+> The Pomodoro technique (25/5 min cycles) reduces decision fatigue over long days.
+
+---
