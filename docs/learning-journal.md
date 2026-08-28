@@ -1345,3 +1345,11 @@ _Logged at 12:12 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-08-28 — blue-green deployments
+_Logged at 01:53 PM_
+
+- Explored key concepts around blue-green deployments
+- Identified practical applications for current projects
+
+---
