@@ -654,3 +654,8 @@ Curated developer productivity tips and reflections.
 > The Pomodoro technique (25/5 min cycles) reduces decision fatigue over long days.
 
 ---
+
+### 2026-08-29
+> API versioning from day one saves months of backward-compatibility headaches.
+
+---
