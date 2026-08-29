@@ -2654,3 +2654,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-29 — functional programming
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Monitor progress
+
+---
