@@ -2670,3 +2670,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-08-29 — browser rendering pipeline
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Worth adopting
+
+---
