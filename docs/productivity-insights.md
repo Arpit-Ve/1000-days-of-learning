@@ -659,3 +659,8 @@ Curated developer productivity tips and reflections.
 > API versioning from day one saves months of backward-compatibility headaches.
 
 ---
+
+### 2026-08-29
+> Regular refactoring prevents technical debt accumulation — allocate 20% time weekly.
+
+---
