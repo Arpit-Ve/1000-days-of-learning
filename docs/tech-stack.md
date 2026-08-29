@@ -2622,3 +2622,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-08-29 — microservices architecture
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Limited ecosystem
+
+**Verdict:** Recommended for side projects
+
+---
