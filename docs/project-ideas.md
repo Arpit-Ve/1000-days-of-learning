@@ -2020,3 +2020,18 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-08-29 — kanban board
+
+**Concept:** Build a kanban board with modern tooling.
+
+**Planned Features:**
+- [ ] Search functionality
+- [ ] Performance monitoring
+- [ ] REST API backend
+- [ ] Export & import features
+- [ ] Notification system
+
+**Priority:** High
+
+---
