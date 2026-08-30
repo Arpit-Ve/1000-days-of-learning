@@ -2035,3 +2035,17 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-08-30 — fitness progress tracker
+
+**Concept:** Build a fitness progress tracker with modern tooling.
+
+**Planned Features:**
+- [ ] Dark mode support
+- [ ] Export & import features
+- [ ] CI/CD pipeline setup
+- [ ] Search functionality
+
+**Priority:** High
+
+---
