@@ -669,3 +669,8 @@ Curated developer productivity tips and reflections.
 > Automating repetitive tasks saves an average of 5 hours per week for developers.
 
 ---
+
+### 2026-08-30
+> Keeping functions under 20 lines improves readability and testability.
+
+---
