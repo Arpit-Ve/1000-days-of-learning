@@ -2701,3 +2701,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-30 — domain-driven design
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Scalable
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Use cautiously
+
+---
