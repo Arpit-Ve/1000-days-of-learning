@@ -2766,3 +2766,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-08-31 — React internals
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Well-documented
+- Scalable
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Monitor progress
+
+---
