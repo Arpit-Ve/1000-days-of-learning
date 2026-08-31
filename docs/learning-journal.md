@@ -1390,3 +1390,11 @@ _Logged at 04:03 PM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-08-31 — code review guidelines
+_Logged at 08:14 PM_
+
+- Explored key concepts around code review guidelines
+- Identified practical applications for current projects
+
+---
