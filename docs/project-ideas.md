@@ -2076,3 +2076,17 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-08-31 — portfolio site generator
+
+**Concept:** Build a portfolio site generator with modern tooling.
+
+**Planned Features:**
+- [ ] Analytics dashboard
+- [ ] Dark mode support
+- [ ] Notification system
+- [ ] Responsive mobile-first design
+
+**Priority:** Medium
+
+---
