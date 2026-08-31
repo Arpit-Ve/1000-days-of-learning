@@ -679,3 +679,8 @@ Curated developer productivity tips and reflections.
 > Documentation written during development is 3x more accurate than retrospective docs.
 
 ---
+
+### 2026-08-31
+> Dependency updates should be done weekly to avoid large, risky version jumps.
+
+---
