@@ -2733,3 +2733,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-31 — data serialization formats
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Worth adopting
+
+---
