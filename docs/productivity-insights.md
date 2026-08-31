@@ -674,3 +674,8 @@ Curated developer productivity tips and reflections.
 > Keeping functions under 20 lines improves readability and testability.
 
 ---
+
+### 2026-08-31
+> Documentation written during development is 3x more accurate than retrospective docs.
+
+---
