@@ -2749,3 +2749,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-08-31 — Node.js event loop
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+- Good performance
+
+⚠️ Cons:
+- Heavy bundle size
+- Limited ecosystem
+
+**Verdict:** Use cautiously
+
+---
