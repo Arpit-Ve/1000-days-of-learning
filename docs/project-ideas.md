@@ -2386,3 +2386,17 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-09-02 — bookmark manager
+
+**Concept:** Build a bookmark manager with modern tooling.
+
+**Planned Features:**
+- [ ] Analytics dashboard
+- [ ] Performance monitoring
+- [ ] Responsive mobile-first design
+- [ ] User authentication & profiles
+
+**Priority:** Medium
+
+---
