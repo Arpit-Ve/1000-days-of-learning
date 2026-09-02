@@ -2241,3 +2241,19 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-09-02 — personal finance tracker
+
+**Concept:** Build a personal finance tracker with modern tooling.
+
+**Planned Features:**
+- [ ] Search functionality
+- [ ] Export & import features
+- [ ] Real-time data synchronization
+- [ ] Responsive mobile-first design
+- [ ] Dark mode support
+- [ ] Performance monitoring
+
+**Priority:** High
+
+---
