@@ -2164,3 +2164,16 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-09-02 — fitness progress tracker
+
+**Concept:** Build a fitness progress tracker with modern tooling.
+
+**Planned Features:**
+- [ ] Responsive mobile-first design
+- [ ] Dark mode support
+- [ ] User authentication & profiles
+
+**Priority:** Medium
+
+---
