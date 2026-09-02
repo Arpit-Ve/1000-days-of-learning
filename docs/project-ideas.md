@@ -2289,3 +2289,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-09-02 — weather dashboard
+
+**Concept:** Build a weather dashboard with modern tooling.
+
+**Planned Features:**
+- [ ] Dark mode support
+- [ ] User authentication & profiles
+- [ ] Responsive mobile-first design
+
+**Priority:** Low
+
+---
