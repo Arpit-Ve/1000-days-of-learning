@@ -2302,3 +2302,16 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-09-02 — password strength analyzer
+
+**Concept:** Build a password strength analyzer with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Search functionality
+- [ ] Performance monitoring
+
+**Priority:** Medium
+
+---
