@@ -2315,3 +2315,19 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-09-02 — RSS feed aggregator
+
+**Concept:** Build a RSS feed aggregator with modern tooling.
+
+**Planned Features:**
+- [ ] CI/CD pipeline setup
+- [ ] Notification system
+- [ ] Analytics dashboard
+- [ ] REST API backend
+- [ ] Dark mode support
+- [ ] User authentication & profiles
+
+**Priority:** Medium
+
+---
