@@ -2331,3 +2331,16 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-09-02 — markdown editor with live preview
+
+**Concept:** Build a markdown editor with live preview with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Responsive mobile-first design
+- [ ] Performance monitoring
+
+**Priority:** Low
+
+---
