@@ -2799,3 +2799,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-09-02 — infrastructure as code
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Easy to learn
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Use cautiously
+
+---
