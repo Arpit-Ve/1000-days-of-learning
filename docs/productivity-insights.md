@@ -684,3 +684,8 @@ Curated developer productivity tips and reflections.
 > Dependency updates should be done weekly to avoid large, risky version jumps.
 
 ---
+
+### 2026-09-02
+> Load testing before launch prevents embarrassing production outages.
+
+---
