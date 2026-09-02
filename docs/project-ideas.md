@@ -2119,3 +2119,19 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-09-02 — URL shortener service
+
+**Concept:** Build a URL shortener service with modern tooling.
+
+**Planned Features:**
+- [ ] Notification system
+- [ ] Dark mode support
+- [ ] Analytics dashboard
+- [ ] Export & import features
+- [ ] User authentication & profiles
+- [ ] REST API backend
+
+**Priority:** High
+
+---
