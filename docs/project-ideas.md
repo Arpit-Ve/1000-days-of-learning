@@ -2209,3 +2209,19 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-09-02 — recipe organizer
+
+**Concept:** Build a recipe organizer with modern tooling.
+
+**Planned Features:**
+- [ ] Export & import features
+- [ ] Analytics dashboard
+- [ ] User authentication & profiles
+- [ ] Notification system
+- [ ] Responsive mobile-first design
+- [ ] CI/CD pipeline setup
+
+**Priority:** Medium
+
+---
