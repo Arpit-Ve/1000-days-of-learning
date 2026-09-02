@@ -2090,3 +2090,18 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-09-02 — RSS feed aggregator
+
+**Concept:** Build a RSS feed aggregator with modern tooling.
+
+**Planned Features:**
+- [ ] REST API backend
+- [ ] Export & import features
+- [ ] Responsive mobile-first design
+- [ ] CI/CD pipeline setup
+- [ ] Notification system
+
+**Priority:** Medium
+
+---
