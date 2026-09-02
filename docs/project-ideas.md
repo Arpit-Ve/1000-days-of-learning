@@ -2225,3 +2225,19 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-09-02 — real-time collaboration tool
+
+**Concept:** Build a real-time collaboration tool with modern tooling.
+
+**Planned Features:**
+- [ ] Export & import features
+- [ ] Dark mode support
+- [ ] Analytics dashboard
+- [ ] User authentication & profiles
+- [ ] CI/CD pipeline setup
+- [ ] Performance monitoring
+
+**Priority:** Low
+
+---
