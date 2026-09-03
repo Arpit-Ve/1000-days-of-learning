@@ -1431,3 +1431,13 @@ _Logged at 04:37 PM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-09-03 — containerization with Docker
+_Logged at 04:37 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+- Explored key concepts around containerization with Docker
+
+---
