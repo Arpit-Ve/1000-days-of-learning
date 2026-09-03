@@ -2832,3 +2832,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-09-03 — testing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Easy to learn
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Monitor progress
+
+---
