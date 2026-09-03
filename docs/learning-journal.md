@@ -1495,3 +1495,13 @@ _Logged at 07:43 PM_
 - Explored key concepts around infrastructure as code
 
 ---
+
+## 2026-09-03 — serverless computing
+_Logged at 07:58 PM_
+
+- Explored key concepts around serverless computing
+- Identified practical applications for current projects
+- Noted areas that need deeper investigation
+- Connected this topic to previous learnings
+
+---
