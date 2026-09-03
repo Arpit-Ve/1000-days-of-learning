@@ -1441,3 +1441,11 @@ _Logged at 04:37 PM_
 - Explored key concepts around containerization with Docker
 
 ---
+
+## 2026-09-03 — testing strategies
+_Logged at 04:37 PM_
+
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+
+---
