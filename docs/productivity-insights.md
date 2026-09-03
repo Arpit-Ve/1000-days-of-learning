@@ -689,3 +689,8 @@ Curated developer productivity tips and reflections.
 > Load testing before launch prevents embarrassing production outages.
 
 ---
+
+### 2026-09-03
+> Standing meetings should never exceed 15 minutes for optimal attention retention.
+
+---
