@@ -1468,3 +1468,11 @@ _Logged at 04:47 PM_
 - Explored key concepts around data visualization techniques
 
 ---
+
+## 2026-09-03 — rate limiting & throttling
+_Logged at 05:40 PM_
+
+- Connected this topic to previous learnings
+- Explored key concepts around rate limiting & throttling
+
+---
