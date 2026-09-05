@@ -2429,3 +2429,16 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-09-05 — habit tracking app
+
+**Concept:** Build a habit tracking app with modern tooling.
+
+**Planned Features:**
+- [ ] Database integration
+- [ ] REST API backend
+- [ ] Export & import features
+
+**Priority:** Low
+
+---
