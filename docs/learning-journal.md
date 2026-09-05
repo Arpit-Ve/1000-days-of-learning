@@ -1581,3 +1581,12 @@ _Logged at 10:21 PM_
 - Explored key concepts around data visualization techniques
 
 ---
+
+## 2026-09-05 — event sourcing
+_Logged at 10:21 PM_
+
+- Connected this topic to previous learnings
+- Explored key concepts around event sourcing
+- Identified practical applications for current projects
+
+---
