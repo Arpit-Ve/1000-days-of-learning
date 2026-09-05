@@ -1556,3 +1556,11 @@ _Logged at 10:27 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-09-05 — OAuth 2.0 flows
+_Logged at 07:37 PM_
+
+- Identified practical applications for current projects
+- Explored key concepts around OAuth 2.0 flows
+
+---
