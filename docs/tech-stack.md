@@ -2879,3 +2879,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-09-05 — refactoring techniques
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Well-documented
+
+⚠️ Cons:
+- Limited ecosystem
+- Steep learning curve
+
+**Verdict:** Monitor progress
+
+---
