@@ -2442,3 +2442,17 @@ Brainstorming log for future development projects.
 **Priority:** Low
 
 ---
+
+## 2026-09-06 — code snippet manager
+
+**Concept:** Build a code snippet manager with modern tooling.
+
+**Planned Features:**
+- [ ] Dark mode support
+- [ ] CI/CD pipeline setup
+- [ ] Responsive mobile-first design
+- [ ] User authentication & profiles
+
+**Priority:** Medium
+
+---
