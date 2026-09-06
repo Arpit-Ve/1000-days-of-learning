@@ -2911,3 +2911,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-09-06 — database optimization
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Good performance
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
