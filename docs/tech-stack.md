@@ -2975,3 +2975,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-11-18 — system design patterns
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Easy to learn
+- Well-documented
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Worth adopting
+
+---
