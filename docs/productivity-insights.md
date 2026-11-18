@@ -709,3 +709,8 @@ Curated developer productivity tips and reflections.
 > Structured logging is essential for debugging distributed systems effectively.
 
 ---
+
+### 2026-11-18
+> Optimistic UI updates improve perceived performance by 40% in user studies.
+
+---
