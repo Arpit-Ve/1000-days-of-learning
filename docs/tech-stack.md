@@ -2944,3 +2944,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-11-18 — CQRS pattern
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Verbose syntax
+
+**Verdict:** Recommended for side projects
+
+---
