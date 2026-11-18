@@ -1609,3 +1609,11 @@ _Logged at 10:07 AM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-11-18 — database indexing strategies
+_Logged at 01:14 PM_
+
+- Connected this topic to previous learnings
+- Explored key concepts around database indexing strategies
+
+---
