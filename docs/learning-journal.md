@@ -1643,3 +1643,11 @@ _Logged at 11:21 PM_
 - Explored key concepts around domain-driven design
 
 ---
+
+## 2026-11-18 — GraphQL vs REST
+_Logged at 11:21 PM_
+
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+
+---
