@@ -1651,3 +1651,13 @@ _Logged at 11:21 PM_
 - Connected this topic to previous learnings
 
 ---
+
+## 2026-11-18 — message queues & event-driven design
+_Logged at 11:21 PM_
+
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+- Explored key concepts around message queues & event-driven design
+
+---
