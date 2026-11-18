@@ -3007,3 +3007,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-11-18 — feature flags & toggles
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Heavy bundle size
+
+**Verdict:** Monitor progress
+
+---
