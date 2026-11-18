@@ -2992,3 +2992,18 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-11-18 — React internals
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Well-documented
+
+⚠️ Cons:
+- Steep learning curve
+
+**Verdict:** Monitor progress
+
+---
