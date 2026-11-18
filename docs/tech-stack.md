@@ -2959,3 +2959,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-11-18 — performance profiling
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Heavy bundle size
+- Complex setup
+
+**Verdict:** Use cautiously
+
+---
