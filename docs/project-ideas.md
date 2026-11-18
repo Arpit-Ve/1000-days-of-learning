@@ -2472,3 +2472,19 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-11-18 — portfolio site generator
+
+**Concept:** Build a portfolio site generator with modern tooling.
+
+**Planned Features:**
+- [ ] Export & import features
+- [ ] User authentication & profiles
+- [ ] Performance monitoring
+- [ ] CI/CD pipeline setup
+- [ ] Analytics dashboard
+- [ ] Dark mode support
+
+**Priority:** Medium
+
+---
