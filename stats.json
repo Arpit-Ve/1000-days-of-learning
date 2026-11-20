@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T18:52:42.467Z",
+  "generated": "2026-11-20T06:12:48.649Z",
   "totalEntries": 770,
   "topicsExplored": [
     "system design patterns",
@@ -8,9 +8,10 @@
     "API design best practices",
     "authentication & authorization",
     "CI/CD pipelines",
-    "containerization with Docker"
+    "containerization with Docker",
+    "Kubernetes orchestration"
   ],
-  "activeDays": 50,
-  "lastUpdate": "2026-11-19",
-  "streak": 1
+  "activeDays": 52,
+  "lastUpdate": "2026-11-20",
+  "streak": 0
 }
