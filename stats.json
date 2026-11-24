@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T06:12:48.649Z",
-  "totalEntries": 770,
+  "generated": "2026-11-24T14:20:38.026Z",
+  "totalEntries": 774,
   "topicsExplored": [
     "system design patterns",
     "microservices architecture",
@@ -9,9 +9,10 @@
     "authentication & authorization",
     "CI/CD pipelines",
     "containerization with Docker",
-    "Kubernetes orchestration"
+    "Kubernetes orchestration",
+    "serverless computing"
   ],
-  "activeDays": 52,
-  "lastUpdate": "2026-11-20",
+  "activeDays": 53,
+  "lastUpdate": "2026-11-24",
   "streak": 0
 }
