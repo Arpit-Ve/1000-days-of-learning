@@ -719,3 +719,8 @@ Curated developer productivity tips and reflections.
 > Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
 
 ---
+
+### 2026-11-24
+> Standing meetings should never exceed 15 minutes for optimal attention retention.
+
+---
