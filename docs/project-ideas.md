@@ -2488,3 +2488,18 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-11-24 — quiz generator
+
+**Concept:** Build a quiz generator with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Dark mode support
+- [ ] Analytics dashboard
+- [ ] Search functionality
+- [ ] Responsive mobile-first design
+
+**Priority:** Low
+
+---
