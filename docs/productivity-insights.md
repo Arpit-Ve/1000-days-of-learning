@@ -714,3 +714,8 @@ Curated developer productivity tips and reflections.
 > Optimistic UI updates improve perceived performance by 40% in user studies.
 
 ---
+
+### 2026-11-24
+> Deep work sessions of 90 minutes maximize cognitive output — schedule focused blocks.
+
+---
