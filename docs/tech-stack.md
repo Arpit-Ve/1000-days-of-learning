@@ -3022,3 +3022,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-11-24 — database indexing strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Scalable
+- Well-documented
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Worth adopting
+
+---
