@@ -1661,3 +1661,11 @@ _Logged at 11:21 PM_
 - Explored key concepts around message queues & event-driven design
 
 ---
+
+## 2026-11-24 — CDN optimization
+_Logged at 07:50 PM_
+
+- Identified practical applications for current projects
+- Explored key concepts around CDN optimization
+
+---
