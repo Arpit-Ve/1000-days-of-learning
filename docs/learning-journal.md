@@ -1678,3 +1678,11 @@ _Logged at 01:49 PM_
 - Explored key concepts around CSS architecture
 
 ---
+
+## 2026-11-25 — event sourcing
+_Logged at 07:06 PM_
+
+- Noted areas that need deeper investigation
+- Identified practical applications for current projects
+
+---
