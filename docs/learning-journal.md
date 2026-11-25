@@ -1686,3 +1686,11 @@ _Logged at 07:06 PM_
 - Identified practical applications for current projects
 
 ---
+
+## 2026-11-25 — CDN optimization
+_Logged at 07:06 PM_
+
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
