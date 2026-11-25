@@ -3038,3 +3038,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-11-25 — browser rendering pipeline
+
+**Evaluation:**
+
+✅ Pros:
+- Active community
+- Scalable
+- Good performance
+
+⚠️ Cons:
+- Complex setup
+
+**Verdict:** Monitor progress
+
+---
