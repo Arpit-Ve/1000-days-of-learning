@@ -1743,3 +1743,13 @@ _Logged at 07:32 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-11-26 — containerization with Docker
+_Logged at 10:39 PM_
+
+- Explored key concepts around containerization with Docker
+- Identified practical applications for current projects
+- Connected this topic to previous learnings
+- Noted areas that need deeper investigation
+
+---
