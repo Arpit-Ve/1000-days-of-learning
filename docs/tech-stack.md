@@ -3088,3 +3088,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-11-26 — CQRS pattern
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Well-documented
+
+⚠️ Cons:
+- Verbose syntax
+- Heavy bundle size
+
+**Verdict:** Use cautiously
+
+---
