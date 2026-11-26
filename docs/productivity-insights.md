@@ -729,3 +729,8 @@ Curated developer productivity tips and reflections.
 > Standing meetings should never exceed 15 minutes for optimal attention retention.
 
 ---
+
+### 2026-11-26
+> Using meaningful variable names eliminates the need for most inline comments.
+
+---
