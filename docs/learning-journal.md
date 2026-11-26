@@ -1694,3 +1694,12 @@ _Logged at 07:06 PM_
 - Noted areas that need deeper investigation
 
 ---
+
+## 2026-11-26 — distributed tracing
+_Logged at 02:16 PM_
+
+- Identified practical applications for current projects
+- Explored key concepts around distributed tracing
+- Noted areas that need deeper investigation
+
+---
