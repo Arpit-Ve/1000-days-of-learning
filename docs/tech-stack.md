@@ -3054,3 +3054,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-11-26 — database optimization
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Scalable
+- Good performance
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Recommended for side projects
+
+---
