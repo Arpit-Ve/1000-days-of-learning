@@ -3104,3 +3104,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Use cautiously
 
 ---
+
+## 2026-11-26 — performance profiling
+
+**Evaluation:**
+
+✅ Pros:
+- Scalable
+- Easy to learn
+- Good performance
+
+⚠️ Cons:
+- Complex setup
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
