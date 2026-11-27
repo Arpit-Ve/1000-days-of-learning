@@ -3121,3 +3121,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Worth adopting
 
 ---
+
+## 2026-11-26 — CSS architecture
+
+**Evaluation:**
+
+✅ Pros:
+- Well-documented
+- Active community
+
+⚠️ Cons:
+- Limited ecosystem
+- Steep learning curve
+
+**Verdict:** Recommended for side projects
+
+---
