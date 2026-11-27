@@ -734,3 +734,8 @@ Curated developer productivity tips and reflections.
 > Using meaningful variable names eliminates the need for most inline comments.
 
 ---
+
+### 2026-11-27
+> Keeping functions under 20 lines improves readability and testability.
+
+---
