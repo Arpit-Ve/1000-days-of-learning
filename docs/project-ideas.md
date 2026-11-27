@@ -2535,3 +2535,19 @@ Brainstorming log for future development projects.
 **Priority:** High
 
 ---
+
+## 2026-11-27 — habit tracking app
+
+**Concept:** Build a habit tracking app with modern tooling.
+
+**Planned Features:**
+- [ ] User authentication & profiles
+- [ ] Responsive mobile-first design
+- [ ] Dark mode support
+- [ ] CI/CD pipeline setup
+- [ ] Export & import features
+- [ ] Analytics dashboard
+
+**Priority:** High
+
+---
