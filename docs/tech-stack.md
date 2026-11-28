@@ -3137,3 +3137,19 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Recommended for side projects
 
 ---
+
+## 2026-11-28 — caching strategies
+
+**Evaluation:**
+
+✅ Pros:
+- Easy to learn
+- Active community
+
+⚠️ Cons:
+- Verbose syntax
+- Complex setup
+
+**Verdict:** Monitor progress
+
+---
