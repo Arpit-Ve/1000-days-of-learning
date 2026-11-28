@@ -3153,3 +3153,20 @@ Notes and evaluations of technologies used or explored.
 **Verdict:** Monitor progress
 
 ---
+
+## 2026-11-28 — TypeScript advanced types
+
+**Evaluation:**
+
+✅ Pros:
+- Good performance
+- Active community
+- Easy to learn
+
+⚠️ Cons:
+- Steep learning curve
+- Limited ecosystem
+
+**Verdict:** Worth adopting
+
+---
