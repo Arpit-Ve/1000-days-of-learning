@@ -739,3 +739,8 @@ Curated developer productivity tips and reflections.
 > Keeping functions under 20 lines improves readability and testability.
 
 ---
+
+### 2026-11-28
+> Using linters and formatters eliminates 90% of style-related code review comments.
+
+---
