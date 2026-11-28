@@ -2567,3 +2567,19 @@ Brainstorming log for future development projects.
 **Priority:** Medium
 
 ---
+
+## 2026-11-28 — URL shortener service
+
+**Concept:** Build a URL shortener service with modern tooling.
+
+**Planned Features:**
+- [ ] Real-time data synchronization
+- [ ] Export & import features
+- [ ] User authentication & profiles
+- [ ] Analytics dashboard
+- [ ] REST API backend
+- [ ] CI/CD pipeline setup
+
+**Priority:** Low
+
+---
